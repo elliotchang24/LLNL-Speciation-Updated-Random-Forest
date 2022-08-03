@@ -1,0 +1,14131 @@
+
+TITLE Python_Phreeqc_Call
+
+
+SELECTED_OUTPUT
+-file C:\Users\chang58\Desktop\LSURF_Package1\python_trial_output.txt
+-activities UO2+2 UO2CO3
+ionic_strength true
+
+END
+
+SOLUTION 0
+units mol/L
+pH 2.206
+Na 0.010
+Cl 0.009
+C 0.000
+U(+6) 0.00000022
+
+GAS_PHASE 0
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00033623
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 0
+Fix_H+ -2.206 NaOH 10.0
+ END
+
+
+SOLUTION 1
+units mol/L
+pH 3.871
+Na 0.010
+Cl 0.011
+C 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 1
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00033623
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 1
+Fix_H+ -3.871 NaOH 10.0
+ END
+
+
+SOLUTION 2
+units mol/L
+pH 6.465
+Na 0.010
+Cl 0.009
+C 0.000
+U(+6) 0.00000022
+
+GAS_PHASE 2
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00033623
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 2
+Fix_H+ -6.465 NaOH 10.0
+ END
+
+
+SOLUTION 3
+units mol/L
+pH 7.019
+Na 0.010
+Cl 0.010
+C 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 3
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00033623
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 3
+Fix_H+ -7.019 NaOH 10.0
+ END
+
+
+SOLUTION 4
+units mol/L
+pH 7.912
+Na 0.010
+Cl 0.010
+C 0.000
+U(+6) 0.00000022
+
+GAS_PHASE 4
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00033623
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 4
+Fix_H+ -7.912 NaOH 10.0
+ END
+
+
+SOLUTION 5
+units mol/L
+pH 8.794
+Na 0.010
+Cl 0.010
+C 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 5
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00033623
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 5
+Fix_H+ -8.794 NaOH 10.0
+ END
+
+
+SOLUTION 6
+units mol/L
+pH 3.572
+Na 0.105
+Cl 0.100
+C 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 6
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 6
+Fix_H+ -3.572 NaOH 10.0
+ END
+
+
+SOLUTION 7
+units mol/L
+pH 4.122
+Na 0.101
+Cl 0.106
+C 0.000
+U(+6) 0.00000092
+
+GAS_PHASE 7
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 7
+Fix_H+ -4.122 NaOH 10.0
+ END
+
+
+SOLUTION 8
+units mol/L
+pH 4.580
+Na 0.096
+Cl 0.101
+C 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 8
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 8
+Fix_H+ -4.580 NaOH 10.0
+ END
+
+
+SOLUTION 9
+units mol/L
+pH 5.104
+Na 0.094
+Cl 0.105
+C 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 9
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 9
+Fix_H+ -5.104 NaOH 10.0
+ END
+
+
+SOLUTION 10
+units mol/L
+pH 5.539
+Na 0.097
+Cl 0.101
+C 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 10
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 10
+Fix_H+ -5.539 NaOH 10.0
+ END
+
+
+SOLUTION 11
+units mol/L
+pH 5.959
+Na 0.114
+Cl 0.104
+C 0.000
+U(+6) 0.00000109
+
+GAS_PHASE 11
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 11
+Fix_H+ -5.959 NaOH 10.0
+ END
+
+
+SOLUTION 12
+units mol/L
+pH 6.504
+Na 0.095
+Cl 0.109
+C 0.000
+U(+6) 0.00000096
+
+GAS_PHASE 12
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 12
+Fix_H+ -6.504 NaOH 10.0
+ END
+
+
+SOLUTION 13
+units mol/L
+pH 6.784
+Na 0.101
+Cl 0.096
+C 0.000
+U(+6) 0.00000108
+
+GAS_PHASE 13
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 13
+Fix_H+ -6.784 NaOH 10.0
+ END
+
+
+SOLUTION 14
+units mol/L
+pH 7.219
+Na 0.095
+Cl 0.101
+C 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 14
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 14
+Fix_H+ -7.219 NaOH 10.0
+ END
+
+
+SOLUTION 15
+units mol/L
+pH 7.586
+Na 0.104
+Cl 0.097
+C 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 15
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 15
+Fix_H+ -7.586 NaOH 10.0
+ END
+
+
+SOLUTION 16
+units mol/L
+pH 8.198
+Na 0.095
+Cl 0.094
+C 0.000
+U(+6) 0.00000112
+
+GAS_PHASE 16
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 16
+Fix_H+ -8.198 NaOH 10.0
+ END
+
+
+SOLUTION 17
+units mol/L
+pH 8.962
+Na 0.088
+Cl 0.099
+C 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 17
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 17
+Fix_H+ -8.962 NaOH 10.0
+ END
+
+
+SOLUTION 18
+units mol/L
+pH 3.552
+Na 0.108
+Cl 0.103
+C 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 18
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 18
+Fix_H+ -3.552 NaOH 10.0
+ END
+
+
+SOLUTION 19
+units mol/L
+pH 3.954
+Na 0.104
+Cl 0.104
+C 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 19
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 19
+Fix_H+ -3.954 NaOH 10.0
+ END
+
+
+SOLUTION 20
+units mol/L
+pH 4.789
+Na 0.097
+Cl 0.095
+C 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 20
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 20
+Fix_H+ -4.789 NaOH 10.0
+ END
+
+
+SOLUTION 21
+units mol/L
+pH 5.175
+Na 0.117
+Cl 0.093
+C 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 21
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 21
+Fix_H+ -5.175 NaOH 10.0
+ END
+
+
+SOLUTION 22
+units mol/L
+pH 5.484
+Na 0.106
+Cl 0.096
+C 0.000
+U(+6) 0.00000106
+
+GAS_PHASE 22
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 22
+Fix_H+ -5.484 NaOH 10.0
+ END
+
+
+SOLUTION 23
+units mol/L
+pH 6.010
+Na 0.099
+Cl 0.095
+C 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 23
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 23
+Fix_H+ -6.010 NaOH 10.0
+ END
+
+
+SOLUTION 24
+units mol/L
+pH 6.519
+Na 0.100
+Cl 0.095
+C 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 24
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 24
+Fix_H+ -6.519 NaOH 10.0
+ END
+
+
+SOLUTION 25
+units mol/L
+pH 6.750
+Na 0.101
+Cl 0.098
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 25
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 25
+Fix_H+ -6.750 NaOH 10.0
+ END
+
+
+SOLUTION 26
+units mol/L
+pH 7.231
+Na 0.105
+Cl 0.099
+C 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 26
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 26
+Fix_H+ -7.231 NaOH 10.0
+ END
+
+
+SOLUTION 27
+units mol/L
+pH 7.604
+Na 0.106
+Cl 0.106
+C 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 27
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 27
+Fix_H+ -7.604 NaOH 10.0
+ END
+
+
+SOLUTION 28
+units mol/L
+pH 8.162
+Na 0.103
+Cl 0.107
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 28
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 28
+Fix_H+ -8.162 NaOH 10.0
+ END
+
+
+SOLUTION 29
+units mol/L
+pH 8.976
+Na 0.103
+Cl 0.095
+C 0.000
+U(+6) 0.00000094
+
+GAS_PHASE 29
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 29
+Fix_H+ -8.976 NaOH 10.0
+ END
+
+
+SOLUTION 30
+units mol/L
+pH 3.453
+Na 0.108
+Cl 0.101
+C 0.000
+U(+6) 0.00000107
+
+GAS_PHASE 30
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 30
+Fix_H+ -3.453 NaOH 10.0
+ END
+
+
+SOLUTION 31
+units mol/L
+pH 4.107
+Na 0.110
+Cl 0.100
+C 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 31
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 31
+Fix_H+ -4.107 NaOH 10.0
+ END
+
+
+SOLUTION 32
+units mol/L
+pH 4.698
+Na 0.099
+Cl 0.105
+C 0.000
+U(+6) 0.00000112
+
+GAS_PHASE 32
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 32
+Fix_H+ -4.698 NaOH 10.0
+ END
+
+
+SOLUTION 33
+units mol/L
+pH 5.055
+Na 0.112
+Cl 0.103
+C 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 33
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 33
+Fix_H+ -5.055 NaOH 10.0
+ END
+
+
+SOLUTION 34
+units mol/L
+pH 5.540
+Na 0.098
+Cl 0.100
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 34
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 34
+Fix_H+ -5.540 NaOH 10.0
+ END
+
+
+SOLUTION 35
+units mol/L
+pH 5.934
+Na 0.100
+Cl 0.097
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 35
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 35
+Fix_H+ -5.934 NaOH 10.0
+ END
+
+
+SOLUTION 36
+units mol/L
+pH 6.266
+Na 0.095
+Cl 0.097
+C 0.000
+U(+6) 0.00000094
+
+GAS_PHASE 36
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 36
+Fix_H+ -6.266 NaOH 10.0
+ END
+
+
+SOLUTION 37
+units mol/L
+pH 6.721
+Na 0.097
+Cl 0.099
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 37
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 37
+Fix_H+ -6.721 NaOH 10.0
+ END
+
+
+SOLUTION 38
+units mol/L
+pH 7.260
+Na 0.102
+Cl 0.098
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 38
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 38
+Fix_H+ -7.260 NaOH 10.0
+ END
+
+
+SOLUTION 39
+units mol/L
+pH 7.491
+Na 0.105
+Cl 0.106
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 39
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 39
+Fix_H+ -7.491 NaOH 10.0
+ END
+
+
+SOLUTION 40
+units mol/L
+pH 8.259
+Na 0.092
+Cl 0.102
+C 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 40
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 40
+Fix_H+ -8.259 NaOH 10.0
+ END
+
+
+SOLUTION 41
+units mol/L
+pH 8.955
+Na 0.102
+Cl 0.107
+C 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 41
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 41
+Fix_H+ -8.955 NaOH 10.0
+ END
+
+
+SOLUTION 42
+units mol/L
+pH 9.665
+Na 0.099
+Cl 0.100
+C 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 42
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 42
+Fix_H+ -9.665 NaOH 10.0
+ END
+
+
+SOLUTION 43
+units mol/L
+pH 2.948
+Na 0.010
+Cl 0.010
+C 0.000
+U(+6) 0.00000042
+
+GAS_PHASE 43
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00040178
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 43
+Fix_H+ -2.948 NaOH 10.0
+ END
+
+
+SOLUTION 44
+units mol/L
+pH 4.154
+Na 0.009
+Cl 0.010
+C 0.000
+U(+6) 0.00000042
+
+GAS_PHASE 44
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00040178
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 44
+Fix_H+ -4.154 NaOH 10.0
+ END
+
+
+SOLUTION 45
+units mol/L
+pH 5.101
+Na 0.009
+Cl 0.011
+C 0.000
+U(+6) 0.00000039
+
+GAS_PHASE 45
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00040178
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 45
+Fix_H+ -5.101 NaOH 10.0
+ END
+
+
+SOLUTION 46
+units mol/L
+pH 5.068
+Na 0.009
+Cl 0.010
+C 0.000
+U(+6) 0.00000044
+
+GAS_PHASE 46
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00040178
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 46
+Fix_H+ -5.068 NaOH 10.0
+ END
+
+
+SOLUTION 47
+units mol/L
+pH 5.497
+Na 0.010
+Cl 0.009
+C 0.000
+U(+6) 0.00000043
+
+GAS_PHASE 47
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00040178
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 47
+Fix_H+ -5.497 NaOH 10.0
+ END
+
+
+SOLUTION 48
+units mol/L
+pH 6.032
+Na 0.011
+Cl 0.010
+C 0.000
+U(+6) 0.00000039
+
+GAS_PHASE 48
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00040178
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 48
+Fix_H+ -6.032 NaOH 10.0
+ END
+
+
+SOLUTION 49
+units mol/L
+pH 6.952
+Na 0.010
+Cl 0.010
+C 0.000
+U(+6) 0.00000041
+
+GAS_PHASE 49
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00040178
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 49
+Fix_H+ -6.952 NaOH 10.0
+ END
+
+
+SOLUTION 50
+units mol/L
+pH 7.472
+Na 0.010
+Cl 0.009
+C 0.000
+U(+6) 0.00000043
+
+GAS_PHASE 50
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00040178
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 50
+Fix_H+ -7.472 NaOH 10.0
+ END
+
+
+SOLUTION 51
+units mol/L
+pH 8.666
+Na 0.010
+Cl 0.010
+C 0.000
+U(+6) 0.00000039
+
+GAS_PHASE 51
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00040178
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 51
+Fix_H+ -8.666 NaOH 10.0
+ END
+
+
+SOLUTION 52
+units mol/L
+pH 9.048
+Na 0.011
+Cl 0.010
+C 0.000
+U(+6) 0.00000044
+
+GAS_PHASE 52
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00040178
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 52
+Fix_H+ -9.048 NaOH 10.0
+ END
+
+
+SOLUTION 53
+units mol/L
+pH 3.319
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000090
+
+GAS_PHASE 53
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 53
+Fix_H+ -3.319 NaOH 10.0
+ END
+
+
+SOLUTION 54
+units mol/L
+pH 3.419
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 54
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 54
+Fix_H+ -3.419 NaOH 10.0
+ END
+
+
+SOLUTION 55
+units mol/L
+pH 3.947
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 55
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 55
+Fix_H+ -3.947 NaOH 10.0
+ END
+
+
+SOLUTION 56
+units mol/L
+pH 4.041
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000107
+
+GAS_PHASE 56
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 56
+Fix_H+ -4.041 NaOH 10.0
+ END
+
+
+SOLUTION 57
+units mol/L
+pH 4.425
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 57
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 57
+Fix_H+ -4.425 NaOH 10.0
+ END
+
+
+SOLUTION 58
+units mol/L
+pH 4.620
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 58
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 58
+Fix_H+ -4.620 NaOH 10.0
+ END
+
+
+SOLUTION 59
+units mol/L
+pH 4.885
+K 0.005
+N 0.006
+C 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 59
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 59
+Fix_H+ -4.885 NaOH 10.0
+ END
+
+
+SOLUTION 60
+units mol/L
+pH 4.786
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000096
+
+GAS_PHASE 60
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 60
+Fix_H+ -4.786 NaOH 10.0
+ END
+
+
+SOLUTION 61
+units mol/L
+pH 5.107
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000096
+
+GAS_PHASE 61
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 61
+Fix_H+ -5.107 NaOH 10.0
+ END
+
+
+SOLUTION 62
+units mol/L
+pH 5.513
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000096
+
+GAS_PHASE 62
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 62
+Fix_H+ -5.513 NaOH 10.0
+ END
+
+
+SOLUTION 63
+units mol/L
+pH 5.858
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000104
+
+GAS_PHASE 63
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 63
+Fix_H+ -5.858 NaOH 10.0
+ END
+
+
+SOLUTION 64
+units mol/L
+pH 6.440
+K 0.005
+N 0.005
+C 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 64
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 64
+Fix_H+ -6.440 NaOH 10.0
+ END
+
+
+SOLUTION 65
+units mol/L
+pH 3.166
+K 0.010
+N 0.010
+C 0.000
+U(+6) 0.00000111
+
+GAS_PHASE 65
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 65
+Fix_H+ -3.166 NaOH 10.0
+ END
+
+
+SOLUTION 66
+units mol/L
+pH 3.427
+K 0.011
+N 0.010
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 66
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 66
+Fix_H+ -3.427 NaOH 10.0
+ END
+
+
+SOLUTION 67
+units mol/L
+pH 3.568
+K 0.010
+N 0.010
+C 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 67
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 67
+Fix_H+ -3.568 NaOH 10.0
+ END
+
+
+SOLUTION 68
+units mol/L
+pH 4.125
+K 0.010
+N 0.010
+C 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 68
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 68
+Fix_H+ -4.125 NaOH 10.0
+ END
+
+
+SOLUTION 69
+units mol/L
+pH 4.328
+K 0.009
+N 0.010
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 69
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 69
+Fix_H+ -4.328 NaOH 10.0
+ END
+
+
+SOLUTION 70
+units mol/L
+pH 4.578
+K 0.011
+N 0.010
+C 0.000
+U(+6) 0.00000107
+
+GAS_PHASE 70
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 70
+Fix_H+ -4.578 NaOH 10.0
+ END
+
+
+SOLUTION 71
+units mol/L
+pH 4.515
+K 0.010
+N 0.010
+C 0.000
+U(+6) 0.00000106
+
+GAS_PHASE 71
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 71
+Fix_H+ -4.515 NaOH 10.0
+ END
+
+
+SOLUTION 72
+units mol/L
+pH 4.909
+K 0.010
+N 0.010
+C 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 72
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 72
+Fix_H+ -4.909 NaOH 10.0
+ END
+
+
+SOLUTION 73
+units mol/L
+pH 5.083
+K 0.010
+N 0.010
+C 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 73
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 73
+Fix_H+ -5.083 NaOH 10.0
+ END
+
+
+SOLUTION 74
+units mol/L
+pH 5.007
+K 0.010
+N 0.010
+C 0.000
+U(+6) 0.00000109
+
+GAS_PHASE 74
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 74
+Fix_H+ -5.007 NaOH 10.0
+ END
+
+
+SOLUTION 75
+units mol/L
+pH 5.359
+K 0.009
+N 0.010
+C 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 75
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 75
+Fix_H+ -5.359 NaOH 10.0
+ END
+
+
+SOLUTION 76
+units mol/L
+pH 5.589
+K 0.010
+N 0.010
+C 0.000
+U(+6) 0.00000096
+
+GAS_PHASE 76
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 76
+Fix_H+ -5.589 NaOH 10.0
+ END
+
+
+SOLUTION 77
+units mol/L
+pH 6.036
+K 0.011
+N 0.011
+C 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 77
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 77
+Fix_H+ -6.036 NaOH 10.0
+ END
+
+
+SOLUTION 78
+units mol/L
+pH 6.247
+K 0.010
+N 0.010
+C 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 78
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 78
+Fix_H+ -6.247 NaOH 10.0
+ END
+
+
+SOLUTION 79
+units mol/L
+pH 7.010
+K 0.010
+N 0.011
+C 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 79
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 79
+Fix_H+ -7.010 NaOH 10.0
+ END
+
+
+SOLUTION 80
+units mol/L
+pH 3.251
+K 0.097
+N 0.092
+C 0.000
+U(+6) 0.00000106
+
+GAS_PHASE 80
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 80
+Fix_H+ -3.251 NaOH 10.0
+ END
+
+
+SOLUTION 81
+units mol/L
+pH 3.964
+K 0.089
+N 0.095
+C 0.000
+U(+6) 0.00000096
+
+GAS_PHASE 81
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 81
+Fix_H+ -3.964 NaOH 10.0
+ END
+
+
+SOLUTION 82
+units mol/L
+pH 4.278
+K 0.101
+N 0.101
+C 0.000
+U(+6) 0.00000108
+
+GAS_PHASE 82
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 82
+Fix_H+ -4.278 NaOH 10.0
+ END
+
+
+SOLUTION 83
+units mol/L
+pH 4.376
+K 0.106
+N 0.101
+C 0.000
+U(+6) 0.00000097
+
+GAS_PHASE 83
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 83
+Fix_H+ -4.376 NaOH 10.0
+ END
+
+
+SOLUTION 84
+units mol/L
+pH 4.620
+K 0.112
+N 0.099
+C 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 84
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 84
+Fix_H+ -4.620 NaOH 10.0
+ END
+
+
+SOLUTION 85
+units mol/L
+pH 4.782
+K 0.116
+N 0.095
+C 0.000
+U(+6) 0.00000086
+
+GAS_PHASE 85
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 85
+Fix_H+ -4.782 NaOH 10.0
+ END
+
+
+SOLUTION 86
+units mol/L
+pH 5.043
+K 0.102
+N 0.096
+C 0.000
+U(+6) 0.00000086
+
+GAS_PHASE 86
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 86
+Fix_H+ -5.043 NaOH 10.0
+ END
+
+
+SOLUTION 87
+units mol/L
+pH 5.070
+K 0.097
+N 0.099
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 87
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 87
+Fix_H+ -5.070 NaOH 10.0
+ END
+
+
+SOLUTION 88
+units mol/L
+pH 5.192
+K 0.102
+N 0.104
+C 0.000
+U(+6) 0.00000090
+
+GAS_PHASE 88
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 88
+Fix_H+ -5.192 NaOH 10.0
+ END
+
+
+SOLUTION 89
+units mol/L
+pH 5.798
+K 0.093
+N 0.102
+C 0.000
+U(+6) 0.00000096
+
+GAS_PHASE 89
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 89
+Fix_H+ -5.798 NaOH 10.0
+ END
+
+
+SOLUTION 90
+units mol/L
+pH 6.204
+K 0.097
+N 0.095
+C 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 90
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 90
+Fix_H+ -6.204 NaOH 10.0
+ END
+
+
+SOLUTION 91
+units mol/L
+pH 3.414
+K 0.102
+N 0.098
+C 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 91
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 91
+Fix_H+ -3.414 NaOH 10.0
+ END
+
+
+SOLUTION 92
+units mol/L
+pH 3.923
+K 0.099
+N 0.093
+C 0.000
+U(+6) 0.00000108
+
+GAS_PHASE 92
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 92
+Fix_H+ -3.923 NaOH 10.0
+ END
+
+
+SOLUTION 93
+units mol/L
+pH 4.127
+K 0.106
+N 0.088
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 93
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 93
+Fix_H+ -4.127 NaOH 10.0
+ END
+
+
+SOLUTION 94
+units mol/L
+pH 4.466
+K 0.098
+N 0.099
+C 0.000
+U(+6) 0.00000097
+
+GAS_PHASE 94
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 94
+Fix_H+ -4.466 NaOH 10.0
+ END
+
+
+SOLUTION 95
+units mol/L
+pH 4.936
+K 0.099
+N 0.096
+C 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 95
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 95
+Fix_H+ -4.936 NaOH 10.0
+ END
+
+
+SOLUTION 96
+units mol/L
+pH 4.657
+K 0.102
+N 0.120
+C 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 96
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 96
+Fix_H+ -4.657 NaOH 10.0
+ END
+
+
+SOLUTION 97
+units mol/L
+pH 4.911
+K 0.103
+N 0.104
+C 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 97
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 97
+Fix_H+ -4.911 NaOH 10.0
+ END
+
+
+SOLUTION 98
+units mol/L
+pH 5.169
+K 0.106
+N 0.105
+C 0.000
+U(+6) 0.00000112
+
+GAS_PHASE 98
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 98
+Fix_H+ -5.169 NaOH 10.0
+ END
+
+
+SOLUTION 99
+units mol/L
+pH 5.444
+K 0.099
+N 0.098
+C 0.000
+U(+6) 0.00000107
+
+GAS_PHASE 99
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 99
+Fix_H+ -5.444 NaOH 10.0
+ END
+
+
+SOLUTION 100
+units mol/L
+pH 5.555
+K 0.101
+N 0.095
+C 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 100
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 100
+Fix_H+ -5.555 NaOH 10.0
+ END
+
+
+SOLUTION 101
+units mol/L
+pH 6.285
+K 0.100
+N 0.101
+C 0.000
+U(+6) 0.00000104
+
+GAS_PHASE 101
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 101
+Fix_H+ -6.285 NaOH 10.0
+ END
+
+
+SOLUTION 102
+units mol/L
+pH 6.840
+K 0.102
+N 0.091
+C 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 102
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 102
+Fix_H+ -6.840 NaOH 10.0
+ END
+
+
+SOLUTION 103
+units mol/L
+pH 7.742
+K 0.113
+N 0.101
+C 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 103
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 103
+Fix_H+ -7.742 NaOH 10.0
+ END
+
+
+SOLUTION 104
+units mol/L
+pH 8.064
+K 0.098
+N 0.096
+C 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 104
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 104
+Fix_H+ -8.064 NaOH 10.0
+ END
+
+
+SOLUTION 105
+units mol/L
+pH 8.591
+K 0.090
+N 0.097
+C 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 105
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 105
+Fix_H+ -8.591 NaOH 10.0
+ END
+
+
+SOLUTION 106
+units mol/L
+pH 8.821
+K 0.097
+N 0.102
+C 0.000
+U(+6) 0.00000096
+
+GAS_PHASE 106
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 106
+Fix_H+ -8.821 NaOH 10.0
+ END
+
+
+SOLUTION 107
+units mol/L
+pH 8.887
+K 0.101
+N 0.097
+C 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 107
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 107
+Fix_H+ -8.887 NaOH 10.0
+ END
+
+
+SOLUTION 108
+units mol/L
+pH 9.306
+K 0.097
+N 0.106
+C 0.000
+U(+6) 0.00000090
+
+GAS_PHASE 108
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 108
+Fix_H+ -9.306 NaOH 10.0
+ END
+
+
+SOLUTION 109
+units mol/L
+pH 9.385
+K 0.100
+N 0.093
+C 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 109
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 109
+Fix_H+ -9.385 NaOH 10.0
+ END
+
+
+SOLUTION 110
+units mol/L
+pH 3.291
+K 0.111
+N 0.109
+C 0.000
+U(+6) 0.00000094
+
+GAS_PHASE 110
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 110
+Fix_H+ -3.291 NaOH 10.0
+ END
+
+
+SOLUTION 111
+units mol/L
+pH 3.924
+K 0.098
+N 0.097
+C 0.000
+U(+6) 0.00000092
+
+GAS_PHASE 111
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 111
+Fix_H+ -3.924 NaOH 10.0
+ END
+
+
+SOLUTION 112
+units mol/L
+pH 4.351
+K 0.097
+N 0.095
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 112
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 112
+Fix_H+ -4.351 NaOH 10.0
+ END
+
+
+SOLUTION 113
+units mol/L
+pH 4.446
+K 0.099
+N 0.102
+C 0.000
+U(+6) 0.00000109
+
+GAS_PHASE 113
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 113
+Fix_H+ -4.446 NaOH 10.0
+ END
+
+
+SOLUTION 114
+units mol/L
+pH 4.608
+K 0.106
+N 0.106
+C 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 114
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 114
+Fix_H+ -4.608 NaOH 10.0
+ END
+
+
+SOLUTION 115
+units mol/L
+pH 4.786
+K 0.102
+N 0.103
+C 0.000
+U(+6) 0.00000107
+
+GAS_PHASE 115
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 115
+Fix_H+ -4.786 NaOH 10.0
+ END
+
+
+SOLUTION 116
+units mol/L
+pH 5.031
+K 0.107
+N 0.104
+C 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 116
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 116
+Fix_H+ -5.031 NaOH 10.0
+ END
+
+
+SOLUTION 117
+units mol/L
+pH 5.123
+K 0.088
+N 0.105
+C 0.000
+U(+6) 0.00000115
+
+GAS_PHASE 117
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 117
+Fix_H+ -5.123 NaOH 10.0
+ END
+
+
+SOLUTION 118
+units mol/L
+pH 5.340
+K 0.099
+N 0.100
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 118
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 118
+Fix_H+ -5.340 NaOH 10.0
+ END
+
+
+SOLUTION 119
+units mol/L
+pH 5.591
+K 0.101
+N 0.107
+C 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 119
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 119
+Fix_H+ -5.591 NaOH 10.0
+ END
+
+
+SOLUTION 120
+units mol/L
+pH 6.156
+K 0.115
+N 0.097
+C 0.000
+U(+6) 0.00000107
+
+GAS_PHASE 120
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 120
+Fix_H+ -6.156 NaOH 10.0
+ END
+
+
+SOLUTION 121
+units mol/L
+pH 3.705
+K 0.094
+N 0.094
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 121
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 121
+Fix_H+ -3.705 NaOH 10.0
+ END
+
+
+SOLUTION 122
+units mol/L
+pH 4.273
+K 0.101
+N 0.107
+F 0.000
+U(+6) 0.00000096
+
+GAS_PHASE 122
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 122
+Fix_H+ -4.273 NaOH 10.0
+ END
+
+
+SOLUTION 123
+units mol/L
+pH 4.291
+K 0.099
+N 0.102
+F 0.000
+U(+6) 0.00000097
+
+GAS_PHASE 123
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 123
+Fix_H+ -4.291 NaOH 10.0
+ END
+
+
+SOLUTION 124
+units mol/L
+pH 4.760
+K 0.101
+N 0.099
+F 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 124
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 124
+Fix_H+ -4.760 NaOH 10.0
+ END
+
+
+SOLUTION 125
+units mol/L
+pH 5.187
+K 0.101
+N 0.103
+F 0.000
+U(+6) 0.00000092
+
+GAS_PHASE 125
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 125
+Fix_H+ -5.187 NaOH 10.0
+ END
+
+
+SOLUTION 126
+units mol/L
+pH 5.038
+K 0.099
+N 0.094
+F 0.000
+U(+6) 0.00000104
+
+GAS_PHASE 126
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 126
+Fix_H+ -5.038 NaOH 10.0
+ END
+
+
+SOLUTION 127
+units mol/L
+pH 5.406
+K 0.093
+N 0.103
+F 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 127
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 127
+Fix_H+ -5.406 NaOH 10.0
+ END
+
+
+SOLUTION 128
+units mol/L
+pH 5.647
+K 0.107
+N 0.102
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 128
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 128
+Fix_H+ -5.647 NaOH 10.0
+ END
+
+
+SOLUTION 129
+units mol/L
+pH 5.759
+K 0.093
+N 0.097
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 129
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 129
+Fix_H+ -5.759 NaOH 10.0
+ END
+
+
+SOLUTION 130
+units mol/L
+pH 6.235
+K 0.101
+N 0.103
+F 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 130
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 130
+Fix_H+ -6.235 NaOH 10.0
+ END
+
+
+SOLUTION 131
+units mol/L
+pH 5.985
+K 0.097
+N 0.098
+F 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 131
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 131
+Fix_H+ -5.985 NaOH 10.0
+ END
+
+
+SOLUTION 132
+units mol/L
+pH 6.290
+K 0.097
+N 0.101
+F 0.000
+U(+6) 0.00000106
+
+GAS_PHASE 132
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 132
+Fix_H+ -6.290 NaOH 10.0
+ END
+
+
+SOLUTION 133
+units mol/L
+pH 4.475
+K 0.106
+N 0.100
+F 0.001
+U(+6) 0.00000091
+
+GAS_PHASE 133
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 133
+Fix_H+ -4.475 NaOH 10.0
+ END
+
+
+SOLUTION 134
+units mol/L
+pH 5.112
+K 0.095
+N 0.108
+F 0.001
+U(+6) 0.00000101
+
+GAS_PHASE 134
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 134
+Fix_H+ -5.112 NaOH 10.0
+ END
+
+
+SOLUTION 135
+units mol/L
+pH 5.059
+K 0.103
+N 0.099
+F 0.001
+U(+6) 0.00000093
+
+GAS_PHASE 135
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 135
+Fix_H+ -5.059 NaOH 10.0
+ END
+
+
+SOLUTION 136
+units mol/L
+pH 5.468
+K 0.102
+N 0.105
+F 0.001
+U(+6) 0.00000101
+
+GAS_PHASE 136
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 136
+Fix_H+ -5.468 NaOH 10.0
+ END
+
+
+SOLUTION 137
+units mol/L
+pH 5.628
+K 0.099
+N 0.091
+F 0.001
+U(+6) 0.00000091
+
+GAS_PHASE 137
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 137
+Fix_H+ -5.628 NaOH 10.0
+ END
+
+
+SOLUTION 138
+units mol/L
+pH 5.883
+K 0.104
+N 0.099
+F 0.001
+U(+6) 0.00000095
+
+GAS_PHASE 138
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 138
+Fix_H+ -5.883 NaOH 10.0
+ END
+
+
+SOLUTION 139
+units mol/L
+pH 5.635
+K 0.105
+N 0.100
+F 0.001
+U(+6) 0.00000099
+
+GAS_PHASE 139
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 139
+Fix_H+ -5.635 NaOH 10.0
+ END
+
+
+SOLUTION 140
+units mol/L
+pH 6.002
+K 0.095
+N 0.099
+F 0.001
+U(+6) 0.00000092
+
+GAS_PHASE 140
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 140
+Fix_H+ -6.002 NaOH 10.0
+ END
+
+
+SOLUTION 141
+units mol/L
+pH 5.966
+K 0.094
+N 0.091
+F 0.001
+U(+6) 0.00000093
+
+GAS_PHASE 141
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 141
+Fix_H+ -5.966 NaOH 10.0
+ END
+
+
+SOLUTION 142
+units mol/L
+pH 6.102
+K 0.103
+N 0.099
+F 0.001
+U(+6) 0.00000093
+
+GAS_PHASE 142
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 142
+Fix_H+ -6.102 NaOH 10.0
+ END
+
+
+SOLUTION 143
+units mol/L
+pH 3.449
+Na 0.009
+N 0.009
+F 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 143
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 143
+Fix_H+ -3.449 NaOH 10.0
+ END
+
+
+SOLUTION 144
+units mol/L
+pH 3.639
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000109
+
+GAS_PHASE 144
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 144
+Fix_H+ -3.639 NaOH 10.0
+ END
+
+
+SOLUTION 145
+units mol/L
+pH 3.982
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000096
+
+GAS_PHASE 145
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 145
+Fix_H+ -3.982 NaOH 10.0
+ END
+
+
+SOLUTION 146
+units mol/L
+pH 4.038
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 146
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 146
+Fix_H+ -4.038 NaOH 10.0
+ END
+
+
+SOLUTION 147
+units mol/L
+pH 4.288
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000104
+
+GAS_PHASE 147
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 147
+Fix_H+ -4.288 NaOH 10.0
+ END
+
+
+SOLUTION 148
+units mol/L
+pH 4.172
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 148
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 148
+Fix_H+ -4.172 NaOH 10.0
+ END
+
+
+SOLUTION 149
+units mol/L
+pH 4.472
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000106
+
+GAS_PHASE 149
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 149
+Fix_H+ -4.472 NaOH 10.0
+ END
+
+
+SOLUTION 150
+units mol/L
+pH 4.832
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000106
+
+GAS_PHASE 150
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 150
+Fix_H+ -4.832 NaOH 10.0
+ END
+
+
+SOLUTION 151
+units mol/L
+pH 4.786
+Na 0.011
+N 0.010
+F 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 151
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 151
+Fix_H+ -4.786 NaOH 10.0
+ END
+
+
+SOLUTION 152
+units mol/L
+pH 5.046
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000097
+
+GAS_PHASE 152
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 152
+Fix_H+ -5.046 NaOH 10.0
+ END
+
+
+SOLUTION 153
+units mol/L
+pH 5.310
+Na 0.011
+N 0.009
+F 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 153
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 153
+Fix_H+ -5.310 NaOH 10.0
+ END
+
+
+SOLUTION 154
+units mol/L
+pH 5.456
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000092
+
+GAS_PHASE 154
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 154
+Fix_H+ -5.456 NaOH 10.0
+ END
+
+
+SOLUTION 155
+units mol/L
+pH 5.683
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 155
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 155
+Fix_H+ -5.683 NaOH 10.0
+ END
+
+
+SOLUTION 156
+units mol/L
+pH 5.583
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 156
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 156
+Fix_H+ -5.583 NaOH 10.0
+ END
+
+
+SOLUTION 157
+units mol/L
+pH 5.961
+Na 0.011
+N 0.011
+F 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 157
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 157
+Fix_H+ -5.961 NaOH 10.0
+ END
+
+
+SOLUTION 158
+units mol/L
+pH 6.381
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000107
+
+GAS_PHASE 158
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 158
+Fix_H+ -6.381 NaOH 10.0
+ END
+
+
+SOLUTION 159
+units mol/L
+pH 5.082
+Na 0.009
+N 0.009
+F 0.001
+U(+6) 0.00000095
+
+GAS_PHASE 159
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 159
+Fix_H+ -5.082 NaOH 10.0
+ END
+
+
+SOLUTION 160
+units mol/L
+pH 5.308
+Na 0.010
+N 0.009
+F 0.001
+U(+6) 0.00000096
+
+GAS_PHASE 160
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 160
+Fix_H+ -5.308 NaOH 10.0
+ END
+
+
+SOLUTION 161
+units mol/L
+pH 5.627
+Na 0.011
+N 0.010
+F 0.001
+U(+6) 0.00000104
+
+GAS_PHASE 161
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 161
+Fix_H+ -5.627 NaOH 10.0
+ END
+
+
+SOLUTION 162
+units mol/L
+pH 5.794
+Na 0.010
+N 0.010
+F 0.001
+U(+6) 0.00000099
+
+GAS_PHASE 162
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 162
+Fix_H+ -5.794 NaOH 10.0
+ END
+
+
+SOLUTION 163
+units mol/L
+pH 5.992
+Na 0.011
+N 0.010
+F 0.001
+U(+6) 0.00000102
+
+GAS_PHASE 163
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 163
+Fix_H+ -5.992 NaOH 10.0
+ END
+
+
+SOLUTION 164
+units mol/L
+pH 6.448
+Na 0.010
+N 0.010
+F 0.001
+U(+6) 0.00000109
+
+GAS_PHASE 164
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 164
+Fix_H+ -6.448 NaOH 10.0
+ END
+
+
+SOLUTION 165
+units mol/L
+pH 6.767
+Na 0.010
+N 0.009
+F 0.001
+U(+6) 0.00000105
+
+GAS_PHASE 165
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 165
+Fix_H+ -6.767 NaOH 10.0
+ END
+
+
+SOLUTION 166
+units mol/L
+pH 3.363
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 166
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 166
+Fix_H+ -3.363 NaOH 10.0
+ END
+
+
+SOLUTION 167
+units mol/L
+pH 3.967
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 167
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 167
+Fix_H+ -3.967 NaOH 10.0
+ END
+
+
+SOLUTION 168
+units mol/L
+pH 3.990
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 168
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 168
+Fix_H+ -3.990 NaOH 10.0
+ END
+
+
+SOLUTION 169
+units mol/L
+pH 4.319
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 169
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 169
+Fix_H+ -4.319 NaOH 10.0
+ END
+
+
+SOLUTION 170
+units mol/L
+pH 4.588
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000094
+
+GAS_PHASE 170
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 170
+Fix_H+ -4.588 NaOH 10.0
+ END
+
+
+SOLUTION 171
+units mol/L
+pH 4.878
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 171
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 171
+Fix_H+ -4.878 NaOH 10.0
+ END
+
+
+SOLUTION 172
+units mol/L
+pH 5.117
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 172
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 172
+Fix_H+ -5.117 NaOH 10.0
+ END
+
+
+SOLUTION 173
+units mol/L
+pH 5.254
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 173
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 173
+Fix_H+ -5.254 NaOH 10.0
+ END
+
+
+SOLUTION 174
+units mol/L
+pH 5.412
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000104
+
+GAS_PHASE 174
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 174
+Fix_H+ -5.412 NaOH 10.0
+ END
+
+
+SOLUTION 175
+units mol/L
+pH 5.835
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 175
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 175
+Fix_H+ -5.835 NaOH 10.0
+ END
+
+
+SOLUTION 176
+units mol/L
+pH 6.267
+K 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 176
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 176
+Fix_H+ -6.267 NaOH 10.0
+ END
+
+
+SOLUTION 177
+units mol/L
+pH 3.421
+Na 0.002
+N 0.002
+P 0.000
+U(+6) 0.00000045
+
+GAS_PHASE 177
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 177
+Fix_H+ -3.421 NaOH 10.0
+ END
+
+
+SOLUTION 178
+units mol/L
+pH 3.893
+Na 0.002
+N 0.002
+P 0.000
+U(+6) 0.00000053
+
+GAS_PHASE 178
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 178
+Fix_H+ -3.893 NaOH 10.0
+ END
+
+
+SOLUTION 179
+units mol/L
+pH 4.233
+Na 0.002
+N 0.002
+P 0.000
+U(+6) 0.00000054
+
+GAS_PHASE 179
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 179
+Fix_H+ -4.233 NaOH 10.0
+ END
+
+
+SOLUTION 180
+units mol/L
+pH 4.338
+Na 0.002
+N 0.002
+P 0.000
+U(+6) 0.00000052
+
+GAS_PHASE 180
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 180
+Fix_H+ -4.338 NaOH 10.0
+ END
+
+
+SOLUTION 181
+units mol/L
+pH 4.873
+Na 0.002
+N 0.002
+P 0.000
+U(+6) 0.00000050
+
+GAS_PHASE 181
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 181
+Fix_H+ -4.873 NaOH 10.0
+ END
+
+
+SOLUTION 182
+units mol/L
+pH 5.054
+Na 0.002
+N 0.002
+P 0.000
+U(+6) 0.00000052
+
+GAS_PHASE 182
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 182
+Fix_H+ -5.054 NaOH 10.0
+ END
+
+
+SOLUTION 183
+units mol/L
+pH 5.327
+Na 0.002
+N 0.002
+P 0.000
+U(+6) 0.00000049
+
+GAS_PHASE 183
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 183
+Fix_H+ -5.327 NaOH 10.0
+ END
+
+
+SOLUTION 184
+units mol/L
+pH 6.219
+Na 0.002
+N 0.002
+P 0.000
+U(+6) 0.00000051
+
+GAS_PHASE 184
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 184
+Fix_H+ -6.219 NaOH 10.0
+ END
+
+
+SOLUTION 185
+units mol/L
+pH 3.890
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 185
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 185
+Fix_H+ -3.890 NaOH 10.0
+ END
+
+
+SOLUTION 186
+units mol/L
+pH 4.112
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 186
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 186
+Fix_H+ -4.112 NaOH 10.0
+ END
+
+
+SOLUTION 187
+units mol/L
+pH 4.480
+Na 0.009
+N 0.011
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 187
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 187
+Fix_H+ -4.480 NaOH 10.0
+ END
+
+
+SOLUTION 188
+units mol/L
+pH 5.019
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 188
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 188
+Fix_H+ -5.019 NaOH 10.0
+ END
+
+
+SOLUTION 189
+units mol/L
+pH 5.823
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 189
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 189
+Fix_H+ -5.823 NaOH 10.0
+ END
+
+
+SOLUTION 190
+units mol/L
+pH 5.936
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 190
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 190
+Fix_H+ -5.936 NaOH 10.0
+ END
+
+
+SOLUTION 191
+units mol/L
+pH 6.337
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 191
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 191
+Fix_H+ -6.337 NaOH 10.0
+ END
+
+
+SOLUTION 192
+units mol/L
+pH 4.084
+Na 0.010
+N 0.009
+F 0.000
+U(+6) 0.00000009
+
+GAS_PHASE 192
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 192
+Fix_H+ -4.084 NaOH 10.0
+ END
+
+
+SOLUTION 193
+units mol/L
+pH 4.225
+Na 0.010
+N 0.009
+F 0.000
+U(+6) 0.00000009
+
+GAS_PHASE 193
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 193
+Fix_H+ -4.225 NaOH 10.0
+ END
+
+
+SOLUTION 194
+units mol/L
+pH 4.264
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000009
+
+GAS_PHASE 194
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 194
+Fix_H+ -4.264 NaOH 10.0
+ END
+
+
+SOLUTION 195
+units mol/L
+pH 4.834
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000010
+
+GAS_PHASE 195
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 195
+Fix_H+ -4.834 NaOH 10.0
+ END
+
+
+SOLUTION 196
+units mol/L
+pH 5.773
+Na 0.011
+N 0.010
+F 0.000
+U(+6) 0.00000009
+
+GAS_PHASE 196
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 196
+Fix_H+ -5.773 NaOH 10.0
+ END
+
+
+SOLUTION 197
+units mol/L
+pH 6.174
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000009
+
+GAS_PHASE 197
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 197
+Fix_H+ -6.174 NaOH 10.0
+ END
+
+
+SOLUTION 198
+units mol/L
+pH 6.279
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000010
+
+GAS_PHASE 198
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 198
+Fix_H+ -6.279 NaOH 10.0
+ END
+
+
+SOLUTION 199
+units mol/L
+pH 4.197
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 199
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 199
+Fix_H+ -4.197 NaOH 10.0
+ END
+
+
+SOLUTION 200
+units mol/L
+pH 4.666
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000104
+
+GAS_PHASE 200
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 200
+Fix_H+ -4.666 NaOH 10.0
+ END
+
+
+SOLUTION 201
+units mol/L
+pH 5.172
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 201
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 201
+Fix_H+ -5.172 NaOH 10.0
+ END
+
+
+SOLUTION 202
+units mol/L
+pH 6.010
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 202
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 202
+Fix_H+ -6.010 NaOH 10.0
+ END
+
+
+SOLUTION 203
+units mol/L
+pH 6.021
+Na 0.011
+N 0.010
+F 0.000
+U(+6) 0.00000108
+
+GAS_PHASE 203
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 203
+Fix_H+ -6.021 NaOH 10.0
+ END
+
+
+SOLUTION 204
+units mol/L
+pH 5.044
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00001057
+
+GAS_PHASE 204
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 204
+Fix_H+ -5.044 NaOH 10.0
+ END
+
+
+SOLUTION 205
+units mol/L
+pH 5.833
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00001088
+
+GAS_PHASE 205
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 205
+Fix_H+ -5.833 NaOH 10.0
+ END
+
+
+SOLUTION 206
+units mol/L
+pH 6.055
+Na 0.011
+N 0.010
+F 0.000
+U(+6) 0.00001002
+
+GAS_PHASE 206
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 206
+Fix_H+ -6.055 NaOH 10.0
+ END
+
+
+SOLUTION 207
+units mol/L
+pH 3.618
+Na 0.011
+N 0.009
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 207
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 207
+Fix_H+ -3.618 NaOH 10.0
+ END
+
+
+SOLUTION 208
+units mol/L
+pH 3.773
+Na 0.010
+N 0.009
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 208
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 208
+Fix_H+ -3.773 NaOH 10.0
+ END
+
+
+SOLUTION 209
+units mol/L
+pH 4.308
+Na 0.011
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 209
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 209
+Fix_H+ -4.308 NaOH 10.0
+ END
+
+
+SOLUTION 210
+units mol/L
+pH 4.369
+Na 0.010
+N 0.009
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 210
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 210
+Fix_H+ -4.369 NaOH 10.0
+ END
+
+
+SOLUTION 211
+units mol/L
+pH 4.298
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 211
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 211
+Fix_H+ -4.298 NaOH 10.0
+ END
+
+
+SOLUTION 212
+units mol/L
+pH 4.419
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 212
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 212
+Fix_H+ -4.419 NaOH 10.0
+ END
+
+
+SOLUTION 213
+units mol/L
+pH 4.523
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 213
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 213
+Fix_H+ -4.523 NaOH 10.0
+ END
+
+
+SOLUTION 214
+units mol/L
+pH 4.961
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 214
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 214
+Fix_H+ -4.961 NaOH 10.0
+ END
+
+
+SOLUTION 215
+units mol/L
+pH 5.080
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 215
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 215
+Fix_H+ -5.080 NaOH 10.0
+ END
+
+
+SOLUTION 216
+units mol/L
+pH 5.329
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 216
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 216
+Fix_H+ -5.329 NaOH 10.0
+ END
+
+
+SOLUTION 217
+units mol/L
+pH 6.020
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000001
+
+GAS_PHASE 217
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 217
+Fix_H+ -6.020 NaOH 10.0
+ END
+
+
+SOLUTION 218
+units mol/L
+pH 3.646
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000010
+
+GAS_PHASE 218
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 218
+Fix_H+ -3.646 NaOH 10.0
+ END
+
+
+SOLUTION 219
+units mol/L
+pH 3.885
+Na 0.010
+N 0.009
+F 0.000
+U(+6) 0.00000010
+
+GAS_PHASE 219
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 219
+Fix_H+ -3.885 NaOH 10.0
+ END
+
+
+SOLUTION 220
+units mol/L
+pH 3.946
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000010
+
+GAS_PHASE 220
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 220
+Fix_H+ -3.946 NaOH 10.0
+ END
+
+
+SOLUTION 221
+units mol/L
+pH 4.345
+Na 0.011
+N 0.011
+F 0.000
+U(+6) 0.00000010
+
+GAS_PHASE 221
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 221
+Fix_H+ -4.345 NaOH 10.0
+ END
+
+
+SOLUTION 222
+units mol/L
+pH 4.288
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000009
+
+GAS_PHASE 222
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 222
+Fix_H+ -4.288 NaOH 10.0
+ END
+
+
+SOLUTION 223
+units mol/L
+pH 4.824
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000010
+
+GAS_PHASE 223
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 223
+Fix_H+ -4.824 NaOH 10.0
+ END
+
+
+SOLUTION 224
+units mol/L
+pH 5.096
+Na 0.009
+N 0.009
+F 0.000
+U(+6) 0.00000011
+
+GAS_PHASE 224
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 224
+Fix_H+ -5.096 NaOH 10.0
+ END
+
+
+SOLUTION 225
+units mol/L
+pH 5.306
+Na 0.009
+N 0.009
+F 0.000
+U(+6) 0.00000010
+
+GAS_PHASE 225
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 225
+Fix_H+ -5.306 NaOH 10.0
+ END
+
+
+SOLUTION 226
+units mol/L
+pH 5.068
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000010
+
+GAS_PHASE 226
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 226
+Fix_H+ -5.068 NaOH 10.0
+ END
+
+
+SOLUTION 227
+units mol/L
+pH 5.422
+Na 0.010
+N 0.009
+F 0.000
+U(+6) 0.00000009
+
+GAS_PHASE 227
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 227
+Fix_H+ -5.422 NaOH 10.0
+ END
+
+
+SOLUTION 228
+units mol/L
+pH 5.995
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000010
+
+GAS_PHASE 228
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 228
+Fix_H+ -5.995 NaOH 10.0
+ END
+
+
+SOLUTION 229
+units mol/L
+pH 3.438
+Na 0.011
+N 0.010
+F 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 229
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 229
+Fix_H+ -3.438 NaOH 10.0
+ END
+
+
+SOLUTION 230
+units mol/L
+pH 3.790
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000091
+
+GAS_PHASE 230
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 230
+Fix_H+ -3.790 NaOH 10.0
+ END
+
+
+SOLUTION 231
+units mol/L
+pH 4.117
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 231
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 231
+Fix_H+ -4.117 NaOH 10.0
+ END
+
+
+SOLUTION 232
+units mol/L
+pH 4.321
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 232
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 232
+Fix_H+ -4.321 NaOH 10.0
+ END
+
+
+SOLUTION 233
+units mol/L
+pH 4.164
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 233
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 233
+Fix_H+ -4.164 NaOH 10.0
+ END
+
+
+SOLUTION 234
+units mol/L
+pH 4.235
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000107
+
+GAS_PHASE 234
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 234
+Fix_H+ -4.235 NaOH 10.0
+ END
+
+
+SOLUTION 235
+units mol/L
+pH 4.608
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 235
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 235
+Fix_H+ -4.608 NaOH 10.0
+ END
+
+
+SOLUTION 236
+units mol/L
+pH 4.803
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 236
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 236
+Fix_H+ -4.803 NaOH 10.0
+ END
+
+
+SOLUTION 237
+units mol/L
+pH 4.908
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000092
+
+GAS_PHASE 237
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 237
+Fix_H+ -4.908 NaOH 10.0
+ END
+
+
+SOLUTION 238
+units mol/L
+pH 5.113
+Na 0.011
+N 0.009
+F 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 238
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 238
+Fix_H+ -5.113 NaOH 10.0
+ END
+
+
+SOLUTION 239
+units mol/L
+pH 5.417
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000104
+
+GAS_PHASE 239
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 239
+Fix_H+ -5.417 NaOH 10.0
+ END
+
+
+SOLUTION 240
+units mol/L
+pH 5.443
+Na 0.009
+N 0.009
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 240
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 240
+Fix_H+ -5.443 NaOH 10.0
+ END
+
+
+SOLUTION 241
+units mol/L
+pH 5.689
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000106
+
+GAS_PHASE 241
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 241
+Fix_H+ -5.689 NaOH 10.0
+ END
+
+
+SOLUTION 242
+units mol/L
+pH 6.019
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000108
+
+GAS_PHASE 242
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 242
+Fix_H+ -6.019 NaOH 10.0
+ END
+
+
+SOLUTION 243
+units mol/L
+pH 6.361
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 243
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 243
+Fix_H+ -6.361 NaOH 10.0
+ END
+
+
+SOLUTION 244
+units mol/L
+pH 3.572
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000980
+
+GAS_PHASE 244
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 244
+Fix_H+ -3.572 NaOH 10.0
+ END
+
+
+SOLUTION 245
+units mol/L
+pH 3.950
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00001014
+
+GAS_PHASE 245
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 245
+Fix_H+ -3.950 NaOH 10.0
+ END
+
+
+SOLUTION 246
+units mol/L
+pH 4.371
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00001005
+
+GAS_PHASE 246
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 246
+Fix_H+ -4.371 NaOH 10.0
+ END
+
+
+SOLUTION 247
+units mol/L
+pH 4.510
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00001112
+
+GAS_PHASE 247
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 247
+Fix_H+ -4.510 NaOH 10.0
+ END
+
+
+SOLUTION 248
+units mol/L
+pH 4.441
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00001003
+
+GAS_PHASE 248
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 248
+Fix_H+ -4.441 NaOH 10.0
+ END
+
+
+SOLUTION 249
+units mol/L
+pH 4.801
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000971
+
+GAS_PHASE 249
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 249
+Fix_H+ -4.801 NaOH 10.0
+ END
+
+
+SOLUTION 250
+units mol/L
+pH 5.160
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00001036
+
+GAS_PHASE 250
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 250
+Fix_H+ -5.160 NaOH 10.0
+ END
+
+
+SOLUTION 251
+units mol/L
+pH 5.368
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000966
+
+GAS_PHASE 251
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 251
+Fix_H+ -5.368 NaOH 10.0
+ END
+
+
+SOLUTION 252
+units mol/L
+pH 5.612
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00001075
+
+GAS_PHASE 252
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 252
+Fix_H+ -5.612 NaOH 10.0
+ END
+
+
+SOLUTION 253
+units mol/L
+pH 6.068
+Na 0.011
+N 0.010
+F 0.000
+U(+6) 0.00000970
+
+GAS_PHASE 253
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 253
+Fix_H+ -6.068 NaOH 10.0
+ END
+
+
+SOLUTION 254
+units mol/L
+pH 4.372
+Na 0.010
+N 0.009
+F 0.000
+U(+6) 0.00009649
+
+GAS_PHASE 254
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 254
+Fix_H+ -4.372 NaOH 10.0
+ END
+
+
+SOLUTION 255
+units mol/L
+pH 4.765
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00010685
+
+GAS_PHASE 255
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 255
+Fix_H+ -4.765 NaOH 10.0
+ END
+
+
+SOLUTION 256
+units mol/L
+pH 4.530
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00008795
+
+GAS_PHASE 256
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 256
+Fix_H+ -4.530 NaOH 10.0
+ END
+
+
+SOLUTION 257
+units mol/L
+pH 5.182
+Na 0.009
+N 0.009
+F 0.000
+U(+6) 0.00009275
+
+GAS_PHASE 257
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 257
+Fix_H+ -5.182 NaOH 10.0
+ END
+
+
+SOLUTION 258
+units mol/L
+pH 5.530
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00009389
+
+GAS_PHASE 258
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 258
+Fix_H+ -5.530 NaOH 10.0
+ END
+
+
+SOLUTION 259
+units mol/L
+pH 5.697
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00010297
+
+GAS_PHASE 259
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 259
+Fix_H+ -5.697 NaOH 10.0
+ END
+
+
+SOLUTION 260
+units mol/L
+pH 5.889
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00009260
+
+GAS_PHASE 260
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 260
+Fix_H+ -5.889 NaOH 10.0
+ END
+
+
+SOLUTION 261
+units mol/L
+pH 5.897
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00010089
+
+GAS_PHASE 261
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 261
+Fix_H+ -5.897 NaOH 10.0
+ END
+
+
+SOLUTION 262
+units mol/L
+pH 6.563
+Na 0.010
+N 0.009
+F 0.000
+U(+6) 0.00009760
+
+GAS_PHASE 262
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 262
+Fix_H+ -6.563 NaOH 10.0
+ END
+
+
+SOLUTION 263
+units mol/L
+pH 3.027
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 263
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 263
+Fix_H+ -3.027 NaOH 10.0
+ END
+
+
+SOLUTION 264
+units mol/L
+pH 3.551
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000087
+
+GAS_PHASE 264
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 264
+Fix_H+ -3.551 NaOH 10.0
+ END
+
+
+SOLUTION 265
+units mol/L
+pH 3.833
+Na 0.010
+N 0.009
+F 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 265
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 265
+Fix_H+ -3.833 NaOH 10.0
+ END
+
+
+SOLUTION 266
+units mol/L
+pH 4.551
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000106
+
+GAS_PHASE 266
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 266
+Fix_H+ -4.551 NaOH 10.0
+ END
+
+
+SOLUTION 267
+units mol/L
+pH 4.863
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 267
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 267
+Fix_H+ -4.863 NaOH 10.0
+ END
+
+
+SOLUTION 268
+units mol/L
+pH 4.963
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000090
+
+GAS_PHASE 268
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 268
+Fix_H+ -4.963 NaOH 10.0
+ END
+
+
+SOLUTION 269
+units mol/L
+pH 5.379
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 269
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 269
+Fix_H+ -5.379 NaOH 10.0
+ END
+
+
+SOLUTION 270
+units mol/L
+pH 5.720
+Na 0.009
+N 0.011
+F 0.000
+U(+6) 0.00000094
+
+GAS_PHASE 270
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 270
+Fix_H+ -5.720 NaOH 10.0
+ END
+
+
+SOLUTION 271
+units mol/L
+pH 6.141
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 271
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 271
+Fix_H+ -6.141 NaOH 10.0
+ END
+
+
+SOLUTION 272
+units mol/L
+pH 6.931
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000102
+
+GAS_PHASE 272
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 272
+Fix_H+ -6.931 NaOH 10.0
+ END
+
+
+SOLUTION 273
+units mol/L
+pH 6.766
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000097
+
+GAS_PHASE 273
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 273
+Fix_H+ -6.766 NaOH 10.0
+ END
+
+
+SOLUTION 274
+units mol/L
+pH 7.509
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000090
+
+GAS_PHASE 274
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 274
+Fix_H+ -7.509 NaOH 10.0
+ END
+
+
+SOLUTION 275
+units mol/L
+pH 8.061
+Na 0.010
+N 0.009
+F 0.000
+U(+6) 0.00000091
+
+GAS_PHASE 275
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 275
+Fix_H+ -8.061 NaOH 10.0
+ END
+
+
+SOLUTION 276
+units mol/L
+pH 8.530
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000105
+
+GAS_PHASE 276
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 276
+Fix_H+ -8.530 NaOH 10.0
+ END
+
+
+SOLUTION 277
+units mol/L
+pH 8.745
+Na 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000094
+
+GAS_PHASE 277
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 277
+Fix_H+ -8.745 NaOH 10.0
+ END
+
+
+SOLUTION 278
+units mol/L
+pH 8.589
+Na 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 278
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 278
+Fix_H+ -8.589 NaOH 10.0
+ END
+
+
+SOLUTION 279
+units mol/L
+pH 8.303
+Na 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000095
+
+GAS_PHASE 279
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 279
+Fix_H+ -8.303 NaOH 10.0
+ END
+
+
+SOLUTION 280
+units mol/L
+pH 7.916
+Na 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000112
+
+GAS_PHASE 280
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 280
+Fix_H+ -7.916 NaOH 10.0
+ END
+
+
+SOLUTION 281
+units mol/L
+pH 7.816
+Na 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 281
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 281
+Fix_H+ -7.816 NaOH 10.0
+ END
+
+
+SOLUTION 282
+units mol/L
+pH 7.558
+Na 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 282
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 282
+Fix_H+ -7.558 NaOH 10.0
+ END
+
+
+SOLUTION 283
+units mol/L
+pH 7.546
+Na 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 283
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 283
+Fix_H+ -7.546 NaOH 10.0
+ END
+
+
+SOLUTION 284
+units mol/L
+pH 7.329
+Na 0.005
+N 0.005
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 284
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 284
+Fix_H+ -7.329 NaOH 10.0
+ END
+
+
+SOLUTION 285
+units mol/L
+pH 7.014
+Na 0.006
+N 0.005
+F 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 285
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 285
+Fix_H+ -7.014 NaOH 10.0
+ END
+
+
+SOLUTION 286
+units mol/L
+pH 7.917
+Na 0.035
+N 0.030
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 286
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 286
+Fix_H+ -7.917 NaOH 10.0
+ END
+
+
+SOLUTION 287
+units mol/L
+pH 7.456
+Na 0.033
+N 0.034
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 287
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 287
+Fix_H+ -7.456 NaOH 10.0
+ END
+
+
+SOLUTION 288
+units mol/L
+pH 7.320
+Na 0.032
+N 0.034
+F 0.000
+U(+6) 0.00000094
+
+GAS_PHASE 288
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 288
+Fix_H+ -7.320 NaOH 10.0
+ END
+
+
+SOLUTION 289
+units mol/L
+pH 7.071
+Na 0.030
+N 0.031
+F 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 289
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 289
+Fix_H+ -7.071 NaOH 10.0
+ END
+
+
+SOLUTION 290
+units mol/L
+pH 7.739
+Na 0.032
+N 0.032
+Si 0.000
+U(+6) 0.00000094
+
+GAS_PHASE 290
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 290
+Fix_H+ -7.739 NaOH 10.0
+ END
+
+
+SOLUTION 291
+units mol/L
+pH 7.723
+Na 0.032
+N 0.031
+Si 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 291
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 291
+Fix_H+ -7.723 NaOH 10.0
+ END
+
+
+SOLUTION 292
+units mol/L
+pH 7.122
+Na 0.031
+N 0.030
+Si 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 292
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 292
+Fix_H+ -7.122 NaOH 10.0
+ END
+
+
+SOLUTION 293
+units mol/L
+pH 7.409
+Na 0.032
+N 0.032
+Si 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 293
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 293
+Fix_H+ -7.409 NaOH 10.0
+ END
+
+
+SOLUTION 294
+units mol/L
+pH 7.947
+Ca 0.002
+N 0.004
+F 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 294
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 294
+Fix_H+ -7.947 NaOH 10.0
+ END
+
+
+SOLUTION 295
+units mol/L
+pH 7.713
+Ca 0.002
+N 0.003
+F 0.000
+U(+6) 0.00000108
+
+GAS_PHASE 295
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 295
+Fix_H+ -7.713 NaOH 10.0
+ END
+
+
+SOLUTION 296
+units mol/L
+pH 7.471
+Ca 0.002
+N 0.004
+F 0.000
+U(+6) 0.00000097
+
+GAS_PHASE 296
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 296
+Fix_H+ -7.471 NaOH 10.0
+ END
+
+
+SOLUTION 297
+units mol/L
+pH 7.441
+Ca 0.002
+N 0.004
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 297
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 297
+Fix_H+ -7.441 NaOH 10.0
+ END
+
+
+SOLUTION 298
+units mol/L
+pH 7.233
+Ca 0.002
+N 0.003
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 298
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 298
+Fix_H+ -7.233 NaOH 10.0
+ END
+
+
+SOLUTION 299
+units mol/L
+pH 7.213
+Ca 0.002
+N 0.004
+F 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 299
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 299
+Fix_H+ -7.213 NaOH 10.0
+ END
+
+
+SOLUTION 300
+units mol/L
+pH 6.851
+Ca 0.002
+N 0.004
+F 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 300
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 300
+Fix_H+ -6.851 NaOH 10.0
+ END
+
+
+SOLUTION 301
+units mol/L
+pH 7.544
+Ca 0.009
+N 0.018
+F 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 301
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 301
+Fix_H+ -7.544 NaOH 10.0
+ END
+
+
+SOLUTION 302
+units mol/L
+pH 7.432
+Ca 0.009
+N 0.017
+F 0.000
+U(+6) 0.00000099
+
+GAS_PHASE 302
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 302
+Fix_H+ -7.432 NaOH 10.0
+ END
+
+
+SOLUTION 303
+units mol/L
+pH 7.140
+Ca 0.009
+N 0.018
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 303
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 303
+Fix_H+ -7.140 NaOH 10.0
+ END
+
+
+SOLUTION 304
+units mol/L
+pH 3.478
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000910
+
+GAS_PHASE 304
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 304
+Fix_H+ -3.478 NaOH 10.0
+ END
+
+
+SOLUTION 305
+units mol/L
+pH 4.140
+K 0.010
+N 0.009
+F 0.000
+U(+6) 0.00000984
+
+GAS_PHASE 305
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 305
+Fix_H+ -4.140 NaOH 10.0
+ END
+
+
+SOLUTION 306
+units mol/L
+pH 4.765
+K 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000998
+
+GAS_PHASE 306
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 306
+Fix_H+ -4.765 NaOH 10.0
+ END
+
+
+SOLUTION 307
+units mol/L
+pH 5.257
+K 0.011
+N 0.011
+F 0.000
+U(+6) 0.00000989
+
+GAS_PHASE 307
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 307
+Fix_H+ -5.257 NaOH 10.0
+ END
+
+
+SOLUTION 308
+units mol/L
+pH 5.906
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000985
+
+GAS_PHASE 308
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 308
+Fix_H+ -5.906 NaOH 10.0
+ END
+
+
+SOLUTION 309
+units mol/L
+pH 3.832
+K 0.010
+N 0.011
+F 0.000
+U(+6) 0.00009580
+
+GAS_PHASE 309
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 309
+Fix_H+ -3.832 NaOH 10.0
+ END
+
+
+SOLUTION 310
+units mol/L
+pH 3.861
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00010209
+
+GAS_PHASE 310
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 310
+Fix_H+ -3.861 NaOH 10.0
+ END
+
+
+SOLUTION 311
+units mol/L
+pH 4.534
+K 0.011
+N 0.010
+F 0.000
+U(+6) 0.00009826
+
+GAS_PHASE 311
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 311
+Fix_H+ -4.534 NaOH 10.0
+ END
+
+
+SOLUTION 312
+units mol/L
+pH 4.607
+K 0.010
+N 0.009
+F 0.000
+U(+6) 0.00009069
+
+GAS_PHASE 312
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 312
+Fix_H+ -4.607 NaOH 10.0
+ END
+
+
+SOLUTION 313
+units mol/L
+pH 4.862
+K 0.009
+N 0.011
+F 0.000
+U(+6) 0.00011153
+
+GAS_PHASE 313
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 313
+Fix_H+ -4.862 NaOH 10.0
+ END
+
+
+SOLUTION 314
+units mol/L
+pH 5.002
+K 0.011
+N 0.009
+F 0.000
+U(+6) 0.00010017
+
+GAS_PHASE 314
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 314
+Fix_H+ -5.002 NaOH 10.0
+ END
+
+
+SOLUTION 315
+units mol/L
+pH 5.591
+K 0.009
+N 0.009
+F 0.000
+U(+6) 0.00010068
+
+GAS_PHASE 315
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00042448
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 315
+Fix_H+ -5.591 NaOH 10.0
+ END
+
+
+SOLUTION 316
+units mol/L
+pH 3.814
+K 0.009
+N 0.010
+F 0.000
+U(+6) 0.00001097
+
+GAS_PHASE 316
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 316
+Fix_H+ -3.814 NaOH 10.0
+ END
+
+
+SOLUTION 317
+units mol/L
+pH 4.305
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00001027
+
+GAS_PHASE 317
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 317
+Fix_H+ -4.305 NaOH 10.0
+ END
+
+
+SOLUTION 318
+units mol/L
+pH 4.620
+K 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000982
+
+GAS_PHASE 318
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 318
+Fix_H+ -4.620 NaOH 10.0
+ END
+
+
+SOLUTION 319
+units mol/L
+pH 4.997
+K 0.010
+N 0.011
+F 0.000
+U(+6) 0.00001041
+
+GAS_PHASE 319
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 319
+Fix_H+ -4.997 NaOH 10.0
+ END
+
+
+SOLUTION 320
+units mol/L
+pH 4.841
+K 0.009
+N 0.011
+F 0.000
+U(+6) 0.00001052
+
+GAS_PHASE 320
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 320
+Fix_H+ -4.841 NaOH 10.0
+ END
+
+
+SOLUTION 321
+units mol/L
+pH 5.456
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00001068
+
+GAS_PHASE 321
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 321
+Fix_H+ -5.456 NaOH 10.0
+ END
+
+
+SOLUTION 322
+units mol/L
+pH 5.857
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00001061
+
+GAS_PHASE 322
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 322
+Fix_H+ -5.857 NaOH 10.0
+ END
+
+
+SOLUTION 323
+units mol/L
+pH 6.545
+K 0.011
+N 0.010
+F 0.000
+U(+6) 0.00001008
+
+GAS_PHASE 323
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 323
+Fix_H+ -6.545 NaOH 10.0
+ END
+
+
+SOLUTION 324
+units mol/L
+pH 7.148
+K 0.011
+N 0.009
+F 0.000
+U(+6) 0.00000974
+
+GAS_PHASE 324
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 324
+Fix_H+ -7.148 NaOH 10.0
+ END
+
+
+SOLUTION 325
+units mol/L
+pH 7.103
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00001033
+
+GAS_PHASE 325
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 325
+Fix_H+ -7.103 NaOH 10.0
+ END
+
+
+SOLUTION 326
+units mol/L
+pH 7.367
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00001023
+
+GAS_PHASE 326
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 326
+Fix_H+ -7.367 NaOH 10.0
+ END
+
+
+SOLUTION 327
+units mol/L
+pH 8.306
+K 0.010
+N 0.009
+F 0.000
+U(+6) 0.00000928
+
+GAS_PHASE 327
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 327
+Fix_H+ -8.306 NaOH 10.0
+ END
+
+
+SOLUTION 328
+units mol/L
+pH 8.394
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000949
+
+GAS_PHASE 328
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 328
+Fix_H+ -8.394 NaOH 10.0
+ END
+
+
+SOLUTION 329
+units mol/L
+pH 2.810
+K 0.010
+N 0.011
+F 0.000
+U(+6) 0.00009785
+
+GAS_PHASE 329
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 329
+Fix_H+ -2.810 NaOH 10.0
+ END
+
+
+SOLUTION 330
+units mol/L
+pH 3.758
+K 0.009
+N 0.010
+F 0.000
+U(+6) 0.00010557
+
+GAS_PHASE 330
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 330
+Fix_H+ -3.758 NaOH 10.0
+ END
+
+
+SOLUTION 331
+units mol/L
+pH 3.801
+K 0.010
+N 0.011
+F 0.000
+U(+6) 0.00010065
+
+GAS_PHASE 331
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 331
+Fix_H+ -3.801 NaOH 10.0
+ END
+
+
+SOLUTION 332
+units mol/L
+pH 4.116
+K 0.009
+N 0.010
+F 0.000
+U(+6) 0.00009744
+
+GAS_PHASE 332
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 332
+Fix_H+ -4.116 NaOH 10.0
+ END
+
+
+SOLUTION 333
+units mol/L
+pH 4.359
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00009880
+
+GAS_PHASE 333
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 333
+Fix_H+ -4.359 NaOH 10.0
+ END
+
+
+SOLUTION 334
+units mol/L
+pH 4.560
+K 0.009
+N 0.010
+F 0.000
+U(+6) 0.00009457
+
+GAS_PHASE 334
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 334
+Fix_H+ -4.560 NaOH 10.0
+ END
+
+
+SOLUTION 335
+units mol/L
+pH 4.775
+K 0.010
+N 0.009
+F 0.000
+U(+6) 0.00010282
+
+GAS_PHASE 335
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 335
+Fix_H+ -4.775 NaOH 10.0
+ END
+
+
+SOLUTION 336
+units mol/L
+pH 4.920
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00010537
+
+GAS_PHASE 336
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 336
+Fix_H+ -4.920 NaOH 10.0
+ END
+
+
+SOLUTION 337
+units mol/L
+pH 5.550
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00009602
+
+GAS_PHASE 337
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 337
+Fix_H+ -5.550 NaOH 10.0
+ END
+
+
+SOLUTION 338
+units mol/L
+pH 5.559
+K 0.011
+N 0.011
+F 0.000
+U(+6) 0.00010785
+
+GAS_PHASE 338
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 338
+Fix_H+ -5.559 NaOH 10.0
+ END
+
+
+SOLUTION 339
+units mol/L
+pH 5.722
+K 0.010
+N 0.010
+F 0.000
+U(+6) 0.00008353
+
+GAS_PHASE 339
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 339
+Fix_H+ -5.722 NaOH 10.0
+ END
+
+
+SOLUTION 340
+units mol/L
+pH 6.508
+K 0.010
+N 0.011
+F 0.000
+U(+6) 0.00009987
+
+GAS_PHASE 340
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 340
+Fix_H+ -6.508 NaOH 10.0
+ END
+
+
+SOLUTION 341
+units mol/L
+pH 8.211
+K 0.010
+N 0.011
+F 0.000
+U(+6) 0.00010255
+
+GAS_PHASE 341
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036308
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 341
+Fix_H+ -8.211 NaOH 10.0
+ END
+
+
+SOLUTION 342
+units mol/L
+pH 3.859
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 342
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 342
+Fix_H+ -3.859 NaOH 10.0
+ END
+
+
+SOLUTION 343
+units mol/L
+pH 4.099
+Na 0.010
+N 0.011
+F 0.000
+U(+6) 0.00000104
+
+GAS_PHASE 343
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 343
+Fix_H+ -4.099 NaOH 10.0
+ END
+
+
+SOLUTION 344
+units mol/L
+pH 4.000
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 344
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 344
+Fix_H+ -4.000 NaOH 10.0
+ END
+
+
+SOLUTION 345
+units mol/L
+pH 4.182
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 345
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 345
+Fix_H+ -4.182 NaOH 10.0
+ END
+
+
+SOLUTION 346
+units mol/L
+pH 4.223
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000093
+
+GAS_PHASE 346
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 346
+Fix_H+ -4.223 NaOH 10.0
+ END
+
+
+SOLUTION 347
+units mol/L
+pH 4.487
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000108
+
+GAS_PHASE 347
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 347
+Fix_H+ -4.487 NaOH 10.0
+ END
+
+
+SOLUTION 348
+units mol/L
+pH 4.850
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 348
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 348
+Fix_H+ -4.850 NaOH 10.0
+ END
+
+
+SOLUTION 349
+units mol/L
+pH 4.789
+Na 0.009
+N 0.010
+F 0.000
+U(+6) 0.00000104
+
+GAS_PHASE 349
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 349
+Fix_H+ -4.789 NaOH 10.0
+ END
+
+
+SOLUTION 350
+units mol/L
+pH 4.801
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 350
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 350
+Fix_H+ -4.801 NaOH 10.0
+ END
+
+
+SOLUTION 351
+units mol/L
+pH 5.275
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 351
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 351
+Fix_H+ -5.275 NaOH 10.0
+ END
+
+
+SOLUTION 352
+units mol/L
+pH 5.646
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000098
+
+GAS_PHASE 352
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 352
+Fix_H+ -5.646 NaOH 10.0
+ END
+
+
+SOLUTION 353
+units mol/L
+pH 5.739
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000101
+
+GAS_PHASE 353
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 353
+Fix_H+ -5.739 NaOH 10.0
+ END
+
+
+SOLUTION 354
+units mol/L
+pH 5.569
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000100
+
+GAS_PHASE 354
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 354
+Fix_H+ -5.569 NaOH 10.0
+ END
+
+
+SOLUTION 355
+units mol/L
+pH 5.805
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000103
+
+GAS_PHASE 355
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 355
+Fix_H+ -5.805 NaOH 10.0
+ END
+
+
+SOLUTION 356
+units mol/L
+pH 6.321
+Na 0.010
+N 0.010
+F 0.000
+U(+6) 0.00000104
+
+GAS_PHASE 356
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 356
+Fix_H+ -6.321 NaOH 10.0
+ END
+
+
+SOLUTION 357
+units mol/L
+pH 5.159
+Na 0.011
+N 0.010
+F 0.001
+U(+6) 0.00000098
+
+GAS_PHASE 357
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 357
+Fix_H+ -5.159 NaOH 10.0
+ END
+
+
+SOLUTION 358
+units mol/L
+pH 5.383
+Na 0.011
+N 0.010
+F 0.001
+U(+6) 0.00000093
+
+GAS_PHASE 358
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 358
+Fix_H+ -5.383 NaOH 10.0
+ END
+
+
+SOLUTION 359
+units mol/L
+pH 5.721
+Na 0.009
+N 0.009
+F 0.001
+U(+6) 0.00000104
+
+GAS_PHASE 359
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 359
+Fix_H+ -5.721 NaOH 10.0
+ END
+
+
+SOLUTION 360
+units mol/L
+pH 5.936
+Na 0.009
+N 0.010
+F 0.001
+U(+6) 0.00000108
+
+GAS_PHASE 360
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 360
+Fix_H+ -5.936 NaOH 10.0
+ END
+
+
+SOLUTION 361
+units mol/L
+pH 5.711
+Na 0.010
+N 0.011
+F 0.001
+U(+6) 0.00000108
+
+GAS_PHASE 361
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 361
+Fix_H+ -5.711 NaOH 10.0
+ END
+
+
+SOLUTION 362
+units mol/L
+pH 6.124
+Na 0.010
+N 0.010
+F 0.001
+U(+6) 0.00000093
+
+GAS_PHASE 362
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 362
+Fix_H+ -6.124 NaOH 10.0
+ END
+
+
+SOLUTION 363
+units mol/L
+pH 6.426
+Na 0.010
+N 0.010
+F 0.001
+U(+6) 0.00000094
+
+GAS_PHASE 363
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00035735
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 363
+Fix_H+ -6.426 NaOH 10.0
+ END
+
+
+SOLUTION 364
+units mol/L
+pH 2.838
+Na -0.000
+N 0.001
+F 0.000
+U(+6) 0.00000046
+
+GAS_PHASE 364
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 364
+Fix_H+ -2.838 NaOH 10.0
+ END
+
+
+SOLUTION 365
+units mol/L
+pH 3.367
+Na 0.002
+N 0.002
+F 0.000
+U(+6) 0.00000051
+
+GAS_PHASE 365
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 365
+Fix_H+ -3.367 NaOH 10.0
+ END
+
+
+SOLUTION 366
+units mol/L
+pH 4.075
+Na 0.002
+N -0.000
+F 0.000
+U(+6) 0.00000048
+
+GAS_PHASE 366
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 366
+Fix_H+ -4.075 NaOH 10.0
+ END
+
+
+SOLUTION 367
+units mol/L
+pH 4.527
+Na 0.000
+N 0.002
+F 0.000
+U(+6) 0.00000051
+
+GAS_PHASE 367
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 367
+Fix_H+ -4.527 NaOH 10.0
+ END
+
+
+SOLUTION 368
+units mol/L
+pH 4.970
+Na 0.000
+N 0.002
+F 0.000
+U(+6) 0.00000049
+
+GAS_PHASE 368
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 368
+Fix_H+ -4.970 NaOH 10.0
+ END
+
+
+SOLUTION 369
+units mol/L
+pH 5.427
+Na 0.001
+N 0.002
+F 0.000
+U(+6) 0.00000049
+
+GAS_PHASE 369
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 369
+Fix_H+ -5.427 NaOH 10.0
+ END
+
+
+SOLUTION 370
+units mol/L
+pH 5.780
+Na 0.001
+N 0.002
+F 0.000
+U(+6) 0.00000046
+
+GAS_PHASE 370
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 370
+Fix_H+ -5.780 NaOH 10.0
+ END
+
+
+SOLUTION 371
+units mol/L
+pH 6.563
+Na 0.001
+N 0.002
+F 0.000
+U(+6) 0.00000053
+
+GAS_PHASE 371
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 371
+Fix_H+ -6.563 NaOH 10.0
+ END
+
+
+SOLUTION 372
+units mol/L
+pH 7.076
+Na 0.001
+N 0.001
+F 0.000
+U(+6) 0.00000054
+
+GAS_PHASE 372
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 372
+Fix_H+ -7.076 NaOH 10.0
+ END
+
+
+SOLUTION 373
+units mol/L
+pH 7.341
+Na -0.000
+N 0.002
+F 0.000
+U(+6) 0.00000048
+
+GAS_PHASE 373
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 373
+Fix_H+ -7.341 NaOH 10.0
+ END
+
+
+SOLUTION 374
+units mol/L
+pH 7.964
+Na 0.001
+N 0.002
+F 0.000
+U(+6) 0.00000050
+
+GAS_PHASE 374
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 374
+Fix_H+ -7.964 NaOH 10.0
+ END
+
+
+SOLUTION 375
+units mol/L
+pH 8.439
+Na 0.000
+N 0.002
+F 0.000
+U(+6) 0.00000054
+
+GAS_PHASE 375
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 375
+Fix_H+ -8.439 NaOH 10.0
+ END
+
+
+SOLUTION 376
+units mol/L
+pH 8.831
+Na 0.002
+N 0.000
+F 0.000
+U(+6) 0.00000048
+
+GAS_PHASE 376
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00039240
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 376
+Fix_H+ -8.831 NaOH 10.0
+ END
+
+
+SOLUTION 377
+units mol/L
+pH 3.123
+Na 0.097
+N 0.104
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 377
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 377
+Fix_H+ -3.123 NaOH 10.0
+ END
+
+
+SOLUTION 378
+units mol/L
+pH 3.352
+Na 0.095
+N 0.104
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 378
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 378
+Fix_H+ -3.352 NaOH 10.0
+ END
+
+
+SOLUTION 379
+units mol/L
+pH 3.949
+Na 0.101
+N 0.105
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 379
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 379
+Fix_H+ -3.949 NaOH 10.0
+ END
+
+
+SOLUTION 380
+units mol/L
+pH 4.809
+Na 0.100
+N 0.106
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 380
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 380
+Fix_H+ -4.809 NaOH 10.0
+ END
+
+
+SOLUTION 381
+units mol/L
+pH 5.406
+Na 0.094
+N 0.109
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 381
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 381
+Fix_H+ -5.406 NaOH 10.0
+ END
+
+
+SOLUTION 382
+units mol/L
+pH 5.948
+Na 0.106
+N 0.084
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 382
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 382
+Fix_H+ -5.948 NaOH 10.0
+ END
+
+
+SOLUTION 383
+units mol/L
+pH 6.214
+Na 0.096
+N 0.098
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 383
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 383
+Fix_H+ -6.214 NaOH 10.0
+ END
+
+
+SOLUTION 384
+units mol/L
+pH 6.408
+Na 0.104
+N 0.101
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 384
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 384
+Fix_H+ -6.408 NaOH 10.0
+ END
+
+
+SOLUTION 385
+units mol/L
+pH 6.287
+Na 0.099
+N 0.104
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 385
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 385
+Fix_H+ -6.287 NaOH 10.0
+ END
+
+
+SOLUTION 386
+units mol/L
+pH 6.532
+Na 0.100
+N 0.104
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 386
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 386
+Fix_H+ -6.532 NaOH 10.0
+ END
+
+
+SOLUTION 387
+units mol/L
+pH 6.700
+Na 0.098
+N 0.096
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 387
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 387
+Fix_H+ -6.700 NaOH 10.0
+ END
+
+
+SOLUTION 388
+units mol/L
+pH 6.538
+Na 0.095
+N 0.095
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 388
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 388
+Fix_H+ -6.538 NaOH 10.0
+ END
+
+
+SOLUTION 389
+units mol/L
+pH 6.896
+Na 0.091
+N 0.101
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 389
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 389
+Fix_H+ -6.896 NaOH 10.0
+ END
+
+
+SOLUTION 390
+units mol/L
+pH 7.365
+Na 0.105
+N 0.097
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 390
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 390
+Fix_H+ -7.365 NaOH 10.0
+ END
+
+
+SOLUTION 391
+units mol/L
+pH 7.627
+Na 0.098
+N 0.102
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 391
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 391
+Fix_H+ -7.627 NaOH 10.0
+ END
+
+
+SOLUTION 392
+units mol/L
+pH 8.095
+Na 0.096
+N 0.096
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 392
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 392
+Fix_H+ -8.095 NaOH 10.0
+ END
+
+
+SOLUTION 393
+units mol/L
+pH 8.752
+Na 0.098
+N 0.108
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 393
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 393
+Fix_H+ -8.752 NaOH 10.0
+ END
+
+
+SOLUTION 394
+units mol/L
+pH 8.966
+Na 0.094
+N 0.109
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 394
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 394
+Fix_H+ -8.966 NaOH 10.0
+ END
+
+
+SOLUTION 395
+units mol/L
+pH 9.331
+Na 0.099
+N 0.095
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 395
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 395
+Fix_H+ -9.331 NaOH 10.0
+ END
+
+
+SOLUTION 396
+units mol/L
+pH 9.193
+Na 0.094
+N 0.100
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 396
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 396
+Fix_H+ -9.193 NaOH 10.0
+ END
+
+
+SOLUTION 397
+units mol/L
+pH 2.837
+Na 0.097
+N 0.101
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 397
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 397
+Fix_H+ -2.837 NaOH 10.0
+ END
+
+
+SOLUTION 398
+units mol/L
+pH 3.530
+Na 0.104
+N 0.096
+F 0.000
+U(+6) 0.00000018
+
+GAS_PHASE 398
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 398
+Fix_H+ -3.530 NaOH 10.0
+ END
+
+
+SOLUTION 399
+units mol/L
+pH 3.703
+Na 0.103
+N 0.099
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 399
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 399
+Fix_H+ -3.703 NaOH 10.0
+ END
+
+
+SOLUTION 400
+units mol/L
+pH 4.082
+Na 0.103
+N 0.096
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 400
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 400
+Fix_H+ -4.082 NaOH 10.0
+ END
+
+
+SOLUTION 401
+units mol/L
+pH 4.180
+Na 0.094
+N 0.098
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 401
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 401
+Fix_H+ -4.180 NaOH 10.0
+ END
+
+
+SOLUTION 402
+units mol/L
+pH 4.185
+Na 0.111
+N 0.096
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 402
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 402
+Fix_H+ -4.185 NaOH 10.0
+ END
+
+
+SOLUTION 403
+units mol/L
+pH 4.038
+Na 0.100
+N 0.113
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 403
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 403
+Fix_H+ -4.038 NaOH 10.0
+ END
+
+
+SOLUTION 404
+units mol/L
+pH 5.352
+Na 0.094
+N 0.100
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 404
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 404
+Fix_H+ -5.352 NaOH 10.0
+ END
+
+
+SOLUTION 405
+units mol/L
+pH 5.528
+Na 0.094
+N 0.096
+F 0.000
+U(+6) 0.00000022
+
+GAS_PHASE 405
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 405
+Fix_H+ -5.528 NaOH 10.0
+ END
+
+
+SOLUTION 406
+units mol/L
+pH 5.937
+Na 0.091
+N 0.099
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 406
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 406
+Fix_H+ -5.937 NaOH 10.0
+ END
+
+
+SOLUTION 407
+units mol/L
+pH 6.365
+Na 0.104
+N 0.093
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 407
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 407
+Fix_H+ -6.365 NaOH 10.0
+ END
+
+
+SOLUTION 408
+units mol/L
+pH 6.519
+Na 0.109
+N 0.099
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 408
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 408
+Fix_H+ -6.519 NaOH 10.0
+ END
+
+
+SOLUTION 409
+units mol/L
+pH 6.817
+Na 0.101
+N 0.097
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 409
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 409
+Fix_H+ -6.817 NaOH 10.0
+ END
+
+
+SOLUTION 410
+units mol/L
+pH 6.924
+Na 0.091
+N 0.106
+F 0.000
+U(+6) 0.00000018
+
+GAS_PHASE 410
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 410
+Fix_H+ -6.924 NaOH 10.0
+ END
+
+
+SOLUTION 411
+units mol/L
+pH 7.112
+Na 0.094
+N 0.097
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 411
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 411
+Fix_H+ -7.112 NaOH 10.0
+ END
+
+
+SOLUTION 412
+units mol/L
+pH 7.415
+Na 0.108
+N 0.096
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 412
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 412
+Fix_H+ -7.415 NaOH 10.0
+ END
+
+
+SOLUTION 413
+units mol/L
+pH 7.563
+Na 0.107
+N 0.102
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 413
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 413
+Fix_H+ -7.563 NaOH 10.0
+ END
+
+
+SOLUTION 414
+units mol/L
+pH 7.819
+Na 0.092
+N 0.104
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 414
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 414
+Fix_H+ -7.819 NaOH 10.0
+ END
+
+
+SOLUTION 415
+units mol/L
+pH 8.407
+Na 0.095
+N 0.102
+F 0.000
+U(+6) 0.00000022
+
+GAS_PHASE 415
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 415
+Fix_H+ -8.407 NaOH 10.0
+ END
+
+
+SOLUTION 416
+units mol/L
+pH 8.789
+Na 0.107
+N 0.098
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 416
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 416
+Fix_H+ -8.789 NaOH 10.0
+ END
+
+
+SOLUTION 417
+units mol/L
+pH 9.323
+Na 0.105
+N 0.100
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 417
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036594
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 417
+Fix_H+ -9.323 NaOH 10.0
+ END
+
+
+SOLUTION 418
+units mol/L
+pH 2.419
+Na 0.101
+N 0.090
+F 0.000
+U(+6) 0.00000224
+
+GAS_PHASE 418
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 418
+Fix_H+ -2.419 NaOH 10.0
+ END
+
+
+SOLUTION 419
+units mol/L
+pH 3.339
+Na 0.102
+N 0.106
+F 0.000
+U(+6) 0.00000241
+
+GAS_PHASE 419
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 419
+Fix_H+ -3.339 NaOH 10.0
+ END
+
+
+SOLUTION 420
+units mol/L
+pH 3.827
+Na 0.104
+N 0.100
+F 0.000
+U(+6) 0.00000213
+
+GAS_PHASE 420
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 420
+Fix_H+ -3.827 NaOH 10.0
+ END
+
+
+SOLUTION 421
+units mol/L
+pH 4.341
+Na 0.101
+N 0.095
+F 0.000
+U(+6) 0.00000217
+
+GAS_PHASE 421
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 421
+Fix_H+ -4.341 NaOH 10.0
+ END
+
+
+SOLUTION 422
+units mol/L
+pH 4.339
+Na 0.106
+N 0.095
+F 0.000
+U(+6) 0.00000201
+
+GAS_PHASE 422
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 422
+Fix_H+ -4.339 NaOH 10.0
+ END
+
+
+SOLUTION 423
+units mol/L
+pH 4.499
+Na 0.088
+N 0.101
+F 0.000
+U(+6) 0.00000226
+
+GAS_PHASE 423
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 423
+Fix_H+ -4.499 NaOH 10.0
+ END
+
+
+SOLUTION 424
+units mol/L
+pH 4.710
+Na 0.109
+N 0.089
+F 0.000
+U(+6) 0.00000195
+
+GAS_PHASE 424
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 424
+Fix_H+ -4.710 NaOH 10.0
+ END
+
+
+SOLUTION 425
+units mol/L
+pH 4.851
+Na 0.100
+N 0.112
+F 0.000
+U(+6) 0.00000215
+
+GAS_PHASE 425
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 425
+Fix_H+ -4.851 NaOH 10.0
+ END
+
+
+SOLUTION 426
+units mol/L
+pH 5.031
+Na 0.095
+N 0.101
+F 0.000
+U(+6) 0.00000216
+
+GAS_PHASE 426
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 426
+Fix_H+ -5.031 NaOH 10.0
+ END
+
+
+SOLUTION 427
+units mol/L
+pH 5.411
+Na 0.094
+N 0.100
+F 0.000
+U(+6) 0.00000209
+
+GAS_PHASE 427
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 427
+Fix_H+ -5.411 NaOH 10.0
+ END
+
+
+SOLUTION 428
+units mol/L
+pH 5.568
+Na 0.103
+N 0.100
+F 0.000
+U(+6) 0.00000213
+
+GAS_PHASE 428
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 428
+Fix_H+ -5.568 NaOH 10.0
+ END
+
+
+SOLUTION 429
+units mol/L
+pH 6.409
+Na 0.096
+N 0.101
+F 0.000
+U(+6) 0.00000228
+
+GAS_PHASE 429
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 429
+Fix_H+ -6.409 NaOH 10.0
+ END
+
+
+SOLUTION 430
+units mol/L
+pH 6.665
+Na 0.099
+N 0.095
+F 0.000
+U(+6) 0.00000203
+
+GAS_PHASE 430
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 430
+Fix_H+ -6.665 NaOH 10.0
+ END
+
+
+SOLUTION 431
+units mol/L
+pH 6.892
+Na 0.097
+N 0.103
+F 0.000
+U(+6) 0.00000221
+
+GAS_PHASE 431
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 431
+Fix_H+ -6.892 NaOH 10.0
+ END
+
+
+SOLUTION 432
+units mol/L
+pH 7.201
+Na 0.101
+N 0.101
+F 0.000
+U(+6) 0.00000210
+
+GAS_PHASE 432
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 432
+Fix_H+ -7.201 NaOH 10.0
+ END
+
+
+SOLUTION 433
+units mol/L
+pH 7.511
+Na 0.106
+N 0.099
+F 0.000
+U(+6) 0.00000195
+
+GAS_PHASE 433
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 433
+Fix_H+ -7.511 NaOH 10.0
+ END
+
+
+SOLUTION 434
+units mol/L
+pH 7.952
+Na 0.096
+N 0.098
+F 0.000
+U(+6) 0.00000217
+
+GAS_PHASE 434
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 434
+Fix_H+ -7.952 NaOH 10.0
+ END
+
+
+SOLUTION 435
+units mol/L
+pH 2.346
+Na 0.095
+N 0.104
+F 0.000
+U(+6) 0.00000207
+
+GAS_PHASE 435
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 435
+Fix_H+ -2.346 NaOH 10.0
+ END
+
+
+SOLUTION 436
+units mol/L
+pH 3.484
+Na 0.097
+N 0.106
+F 0.000
+U(+6) 0.00000233
+
+GAS_PHASE 436
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 436
+Fix_H+ -3.484 NaOH 10.0
+ END
+
+
+SOLUTION 437
+units mol/L
+pH 3.781
+Na 0.099
+N 0.089
+F 0.000
+U(+6) 0.00000200
+
+GAS_PHASE 437
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 437
+Fix_H+ -3.781 NaOH 10.0
+ END
+
+
+SOLUTION 438
+units mol/L
+pH 4.203
+Na 0.095
+N 0.094
+F 0.000
+U(+6) 0.00000219
+
+GAS_PHASE 438
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 438
+Fix_H+ -4.203 NaOH 10.0
+ END
+
+
+SOLUTION 439
+units mol/L
+pH 4.366
+Na 0.100
+N 0.098
+F 0.000
+U(+6) 0.00000227
+
+GAS_PHASE 439
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 439
+Fix_H+ -4.366 NaOH 10.0
+ END
+
+
+SOLUTION 440
+units mol/L
+pH 4.710
+Na 0.096
+N 0.097
+F 0.000
+U(+6) 0.00000226
+
+GAS_PHASE 440
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 440
+Fix_H+ -4.710 NaOH 10.0
+ END
+
+
+SOLUTION 441
+units mol/L
+pH 5.060
+Na 0.097
+N 0.101
+F 0.000
+U(+6) 0.00000238
+
+GAS_PHASE 441
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 441
+Fix_H+ -5.060 NaOH 10.0
+ END
+
+
+SOLUTION 442
+units mol/L
+pH 5.102
+Na 0.096
+N 0.097
+F 0.000
+U(+6) 0.00000225
+
+GAS_PHASE 442
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 442
+Fix_H+ -5.102 NaOH 10.0
+ END
+
+
+SOLUTION 443
+units mol/L
+pH 5.174
+Na 0.091
+N 0.097
+F 0.000
+U(+6) 0.00000218
+
+GAS_PHASE 443
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 443
+Fix_H+ -5.174 NaOH 10.0
+ END
+
+
+SOLUTION 444
+units mol/L
+pH 5.405
+Na 0.100
+N 0.095
+F 0.000
+U(+6) 0.00000212
+
+GAS_PHASE 444
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 444
+Fix_H+ -5.405 NaOH 10.0
+ END
+
+
+SOLUTION 445
+units mol/L
+pH 5.410
+Na 0.105
+N 0.099
+F 0.000
+U(+6) 0.00000209
+
+GAS_PHASE 445
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 445
+Fix_H+ -5.410 NaOH 10.0
+ END
+
+
+SOLUTION 446
+units mol/L
+pH 6.220
+Na 0.104
+N 0.099
+F 0.000
+U(+6) 0.00000227
+
+GAS_PHASE 446
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 446
+Fix_H+ -6.220 NaOH 10.0
+ END
+
+
+SOLUTION 447
+units mol/L
+pH 6.440
+Na 0.101
+N 0.103
+F 0.000
+U(+6) 0.00000213
+
+GAS_PHASE 447
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 447
+Fix_H+ -6.440 NaOH 10.0
+ END
+
+
+SOLUTION 448
+units mol/L
+pH 6.921
+Na 0.106
+N 0.099
+F 0.000
+U(+6) 0.00000219
+
+GAS_PHASE 448
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 448
+Fix_H+ -6.921 NaOH 10.0
+ END
+
+
+SOLUTION 449
+units mol/L
+pH 7.273
+Na 0.104
+N 0.098
+F 0.000
+U(+6) 0.00000199
+
+GAS_PHASE 449
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 449
+Fix_H+ -7.273 NaOH 10.0
+ END
+
+
+SOLUTION 450
+units mol/L
+pH 7.296
+Na 0.102
+N 0.101
+F 0.000
+U(+6) 0.00000210
+
+GAS_PHASE 450
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 450
+Fix_H+ -7.296 NaOH 10.0
+ END
+
+
+SOLUTION 451
+units mol/L
+pH 7.709
+Na 0.100
+N 0.097
+F 0.000
+U(+6) 0.00000223
+
+GAS_PHASE 451
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 451
+Fix_H+ -7.709 NaOH 10.0
+ END
+
+
+SOLUTION 452
+units mol/L
+pH 7.922
+Na 0.096
+N 0.099
+F 0.000
+U(+6) 0.00000233
+
+GAS_PHASE 452
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 452
+Fix_H+ -7.922 NaOH 10.0
+ END
+
+
+SOLUTION 453
+units mol/L
+pH 2.365
+Na 0.101
+N 0.102
+F 0.000
+U(+6) 0.00000205
+
+GAS_PHASE 453
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 453
+Fix_H+ -2.365 NaOH 10.0
+ END
+
+
+SOLUTION 454
+units mol/L
+pH 3.222
+Na 0.101
+N 0.093
+F 0.000
+U(+6) 0.00000196
+
+GAS_PHASE 454
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 454
+Fix_H+ -3.222 NaOH 10.0
+ END
+
+
+SOLUTION 455
+units mol/L
+pH 4.078
+Na 0.097
+N 0.102
+F 0.000
+U(+6) 0.00000194
+
+GAS_PHASE 455
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 455
+Fix_H+ -4.078 NaOH 10.0
+ END
+
+
+SOLUTION 456
+units mol/L
+pH 4.411
+Na 0.100
+N 0.099
+F 0.000
+U(+6) 0.00000189
+
+GAS_PHASE 456
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 456
+Fix_H+ -4.411 NaOH 10.0
+ END
+
+
+SOLUTION 457
+units mol/L
+pH 4.838
+Na 0.100
+N 0.097
+F 0.000
+U(+6) 0.00000198
+
+GAS_PHASE 457
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 457
+Fix_H+ -4.838 NaOH 10.0
+ END
+
+
+SOLUTION 458
+units mol/L
+pH 4.888
+Na 0.102
+N 0.094
+F 0.000
+U(+6) 0.00000199
+
+GAS_PHASE 458
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 458
+Fix_H+ -4.888 NaOH 10.0
+ END
+
+
+SOLUTION 459
+units mol/L
+pH 5.079
+Na 0.101
+N 0.101
+F 0.000
+U(+6) 0.00000205
+
+GAS_PHASE 459
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 459
+Fix_H+ -5.079 NaOH 10.0
+ END
+
+
+SOLUTION 460
+units mol/L
+pH 5.352
+Na 0.104
+N 0.096
+F 0.000
+U(+6) 0.00000200
+
+GAS_PHASE 460
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 460
+Fix_H+ -5.352 NaOH 10.0
+ END
+
+
+SOLUTION 461
+units mol/L
+pH 5.597
+Na 0.094
+N 0.098
+F 0.000
+U(+6) 0.00000200
+
+GAS_PHASE 461
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 461
+Fix_H+ -5.597 NaOH 10.0
+ END
+
+
+SOLUTION 462
+units mol/L
+pH 5.760
+Na 0.105
+N 0.098
+F 0.000
+U(+6) 0.00000208
+
+GAS_PHASE 462
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 462
+Fix_H+ -5.760 NaOH 10.0
+ END
+
+
+SOLUTION 463
+units mol/L
+pH 5.919
+Na 0.099
+N 0.102
+F 0.000
+U(+6) 0.00000201
+
+GAS_PHASE 463
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 463
+Fix_H+ -5.919 NaOH 10.0
+ END
+
+
+SOLUTION 464
+units mol/L
+pH 6.150
+Na 0.102
+N 0.101
+F 0.000
+U(+6) 0.00000201
+
+GAS_PHASE 464
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 464
+Fix_H+ -6.150 NaOH 10.0
+ END
+
+
+SOLUTION 465
+units mol/L
+pH 6.493
+Na 0.101
+N 0.095
+F 0.000
+U(+6) 0.00000217
+
+GAS_PHASE 465
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 465
+Fix_H+ -6.493 NaOH 10.0
+ END
+
+
+SOLUTION 466
+units mol/L
+pH 6.818
+Na 0.091
+N 0.108
+F 0.000
+U(+6) 0.00000202
+
+GAS_PHASE 466
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 466
+Fix_H+ -6.818 NaOH 10.0
+ END
+
+
+SOLUTION 467
+units mol/L
+pH 6.914
+Na 0.104
+N 0.101
+F 0.000
+U(+6) 0.00000196
+
+GAS_PHASE 467
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 467
+Fix_H+ -6.914 NaOH 10.0
+ END
+
+
+SOLUTION 468
+units mol/L
+pH 7.144
+Na 0.100
+N 0.099
+F 0.000
+U(+6) 0.00000201
+
+GAS_PHASE 468
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 468
+Fix_H+ -7.144 NaOH 10.0
+ END
+
+
+SOLUTION 469
+units mol/L
+pH 7.684
+Na 0.099
+N 0.101
+F 0.000
+U(+6) 0.00000220
+
+GAS_PHASE 469
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 469
+Fix_H+ -7.684 NaOH 10.0
+ END
+
+
+SOLUTION 470
+units mol/L
+pH 7.797
+Na 0.104
+N 0.104
+F 0.000
+U(+6) 0.00000211
+
+GAS_PHASE 470
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 470
+Fix_H+ -7.797 NaOH 10.0
+ END
+
+
+SOLUTION 471
+units mol/L
+pH 8.001
+Na 0.103
+N 0.094
+F 0.000
+U(+6) 0.00000208
+
+GAS_PHASE 471
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 471
+Fix_H+ -8.001 NaOH 10.0
+ END
+
+
+SOLUTION 472
+units mol/L
+pH 2.587
+Na 0.105
+N 0.097
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 472
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 472
+Fix_H+ -2.587 NaOH 10.0
+ END
+
+
+SOLUTION 473
+units mol/L
+pH 3.189
+Na 0.103
+N 0.099
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 473
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 473
+Fix_H+ -3.189 NaOH 10.0
+ END
+
+
+SOLUTION 474
+units mol/L
+pH 4.200
+Na 0.097
+N 0.102
+F 0.000
+U(+6) 0.00000018
+
+GAS_PHASE 474
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 474
+Fix_H+ -4.200 NaOH 10.0
+ END
+
+
+SOLUTION 475
+units mol/L
+pH 4.310
+Na 0.099
+N 0.100
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 475
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 475
+Fix_H+ -4.310 NaOH 10.0
+ END
+
+
+SOLUTION 476
+units mol/L
+pH 4.498
+Na 0.096
+N 0.099
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 476
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 476
+Fix_H+ -4.498 NaOH 10.0
+ END
+
+
+SOLUTION 477
+units mol/L
+pH 5.059
+Na 0.095
+N 0.096
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 477
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 477
+Fix_H+ -5.059 NaOH 10.0
+ END
+
+
+SOLUTION 478
+units mol/L
+pH 5.036
+Na 0.105
+N 0.097
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 478
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 478
+Fix_H+ -5.036 NaOH 10.0
+ END
+
+
+SOLUTION 479
+units mol/L
+pH 5.409
+Na 0.101
+N 0.107
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 479
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 479
+Fix_H+ -5.409 NaOH 10.0
+ END
+
+
+SOLUTION 480
+units mol/L
+pH 5.656
+Na 0.103
+N 0.111
+F 0.000
+U(+6) 0.00000022
+
+GAS_PHASE 480
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 480
+Fix_H+ -5.656 NaOH 10.0
+ END
+
+
+SOLUTION 481
+units mol/L
+pH 6.002
+Na 0.100
+N 0.096
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 481
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 481
+Fix_H+ -6.002 NaOH 10.0
+ END
+
+
+SOLUTION 482
+units mol/L
+pH 5.938
+Na 0.100
+N 0.104
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 482
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 482
+Fix_H+ -5.938 NaOH 10.0
+ END
+
+
+SOLUTION 483
+units mol/L
+pH 6.383
+Na 0.095
+N 0.099
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 483
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 483
+Fix_H+ -6.383 NaOH 10.0
+ END
+
+
+SOLUTION 484
+units mol/L
+pH 6.479
+Na 0.097
+N 0.102
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 484
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 484
+Fix_H+ -6.479 NaOH 10.0
+ END
+
+
+SOLUTION 485
+units mol/L
+pH 6.684
+Na 0.100
+N 0.091
+F 0.000
+U(+6) 0.00000022
+
+GAS_PHASE 485
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 485
+Fix_H+ -6.684 NaOH 10.0
+ END
+
+
+SOLUTION 486
+units mol/L
+pH 6.832
+Na 0.102
+N 0.105
+F 0.000
+U(+6) 0.00000021
+
+GAS_PHASE 486
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 486
+Fix_H+ -6.832 NaOH 10.0
+ END
+
+
+SOLUTION 487
+units mol/L
+pH 7.054
+Na 0.105
+N 0.111
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 487
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 487
+Fix_H+ -7.054 NaOH 10.0
+ END
+
+
+SOLUTION 488
+units mol/L
+pH 7.521
+Na 0.100
+N 0.092
+F 0.000
+U(+6) 0.00000019
+
+GAS_PHASE 488
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 488
+Fix_H+ -7.521 NaOH 10.0
+ END
+
+
+SOLUTION 489
+units mol/L
+pH 7.779
+Na 0.094
+N 0.102
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 489
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 489
+Fix_H+ -7.779 NaOH 10.0
+ END
+
+
+SOLUTION 490
+units mol/L
+pH 7.940
+Na 0.089
+N 0.099
+F 0.000
+U(+6) 0.00000020
+
+GAS_PHASE 490
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 490
+Fix_H+ -7.940 NaOH 10.0
+ END
+
+
+SOLUTION 491
+units mol/L
+pH 4.098
+Na 0.092
+N 0.104
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 491
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 491
+Fix_H+ -4.098 NaOH 10.0
+ END
+
+
+SOLUTION 492
+units mol/L
+pH 4.322
+Na 0.101
+N 0.098
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 492
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 492
+Fix_H+ -4.322 NaOH 10.0
+ END
+
+
+SOLUTION 493
+units mol/L
+pH 4.617
+Na 0.103
+N 0.095
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 493
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 493
+Fix_H+ -4.617 NaOH 10.0
+ END
+
+
+SOLUTION 494
+units mol/L
+pH 4.872
+Na 0.102
+N 0.101
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 494
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 494
+Fix_H+ -4.872 NaOH 10.0
+ END
+
+
+SOLUTION 495
+units mol/L
+pH 5.194
+Na 0.107
+N 0.093
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 495
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 495
+Fix_H+ -5.194 NaOH 10.0
+ END
+
+
+SOLUTION 496
+units mol/L
+pH 5.406
+Na 0.103
+N 0.104
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 496
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 496
+Fix_H+ -5.406 NaOH 10.0
+ END
+
+
+SOLUTION 497
+units mol/L
+pH 5.788
+Na 0.093
+N 0.098
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 497
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 497
+Fix_H+ -5.788 NaOH 10.0
+ END
+
+
+SOLUTION 498
+units mol/L
+pH 6.130
+Na 0.100
+N 0.106
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 498
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 498
+Fix_H+ -6.130 NaOH 10.0
+ END
+
+
+SOLUTION 499
+units mol/L
+pH 6.093
+Na 0.106
+N 0.104
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 499
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 499
+Fix_H+ -6.093 NaOH 10.0
+ END
+
+
+SOLUTION 500
+units mol/L
+pH 6.368
+Na 0.095
+N 0.102
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 500
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 500
+Fix_H+ -6.368 NaOH 10.0
+ END
+
+
+SOLUTION 501
+units mol/L
+pH 6.587
+Na 0.095
+N 0.092
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 501
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 501
+Fix_H+ -6.587 NaOH 10.0
+ END
+
+
+SOLUTION 502
+units mol/L
+pH 6.823
+Na 0.092
+N 0.111
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 502
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 502
+Fix_H+ -6.823 NaOH 10.0
+ END
+
+
+SOLUTION 503
+units mol/L
+pH 7.048
+Na 0.098
+N 0.102
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 503
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 503
+Fix_H+ -7.048 NaOH 10.0
+ END
+
+
+SOLUTION 504
+units mol/L
+pH 7.361
+Na 0.102
+N 0.100
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 504
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 504
+Fix_H+ -7.361 NaOH 10.0
+ END
+
+
+SOLUTION 505
+units mol/L
+pH 7.509
+Na 0.091
+N 0.091
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 505
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 505
+Fix_H+ -7.509 NaOH 10.0
+ END
+
+
+SOLUTION 506
+units mol/L
+pH 7.806
+Na 0.101
+N 0.104
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 506
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 506
+Fix_H+ -7.806 NaOH 10.0
+ END
+
+
+SOLUTION 507
+units mol/L
+pH 8.041
+Na 0.104
+N 0.092
+F 0.000
+U(+6) 0.00000002
+
+GAS_PHASE 507
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 507
+Fix_H+ -8.041 NaOH 10.0
+ END
+
+
+SOLUTION 508
+units mol/L
+pH 2.564
+Na 0.097
+N 0.102
+F 0.000
+U(+6) 0.00000226
+
+GAS_PHASE 508
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 508
+Fix_H+ -2.564 NaOH 10.0
+ END
+
+
+SOLUTION 509
+units mol/L
+pH 4.107
+Na 0.104
+N 0.098
+F 0.000
+U(+6) 0.00000213
+
+GAS_PHASE 509
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 509
+Fix_H+ -4.107 NaOH 10.0
+ END
+
+
+SOLUTION 510
+units mol/L
+pH 4.522
+Na 0.111
+N 0.100
+F 0.000
+U(+6) 0.00000215
+
+GAS_PHASE 510
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 510
+Fix_H+ -4.522 NaOH 10.0
+ END
+
+
+SOLUTION 511
+units mol/L
+pH 4.916
+Na 0.102
+N 0.101
+F 0.000
+U(+6) 0.00000227
+
+GAS_PHASE 511
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 511
+Fix_H+ -4.916 NaOH 10.0
+ END
+
+
+SOLUTION 512
+units mol/L
+pH 5.145
+Na 0.094
+N 0.095
+F 0.000
+U(+6) 0.00000210
+
+GAS_PHASE 512
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 512
+Fix_H+ -5.145 NaOH 10.0
+ END
+
+
+SOLUTION 513
+units mol/L
+pH 5.761
+Na 0.111
+N 0.095
+F 0.000
+U(+6) 0.00000221
+
+GAS_PHASE 513
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 513
+Fix_H+ -5.761 NaOH 10.0
+ END
+
+
+SOLUTION 514
+units mol/L
+pH 6.241
+Na 0.101
+N 0.090
+F 0.000
+U(+6) 0.00000200
+
+GAS_PHASE 514
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 514
+Fix_H+ -6.241 NaOH 10.0
+ END
+
+
+SOLUTION 515
+units mol/L
+pH 6.292
+Na 0.095
+N 0.101
+F 0.000
+U(+6) 0.00000213
+
+GAS_PHASE 515
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 515
+Fix_H+ -6.292 NaOH 10.0
+ END
+
+
+SOLUTION 516
+units mol/L
+pH 6.659
+Na 0.102
+N 0.104
+F 0.000
+U(+6) 0.00000215
+
+GAS_PHASE 516
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 516
+Fix_H+ -6.659 NaOH 10.0
+ END
+
+
+SOLUTION 517
+units mol/L
+pH 6.768
+Na 0.105
+N 0.093
+F 0.000
+U(+6) 0.00000219
+
+GAS_PHASE 517
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 517
+Fix_H+ -6.768 NaOH 10.0
+ END
+
+
+SOLUTION 518
+units mol/L
+pH 6.854
+Na 0.107
+N 0.099
+F 0.000
+U(+6) 0.00000212
+
+GAS_PHASE 518
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 518
+Fix_H+ -6.854 NaOH 10.0
+ END
+
+
+SOLUTION 519
+units mol/L
+pH 7.125
+Na 0.103
+N 0.101
+F 0.000
+U(+6) 0.00000212
+
+GAS_PHASE 519
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 519
+Fix_H+ -7.125 NaOH 10.0
+ END
+
+
+SOLUTION 520
+units mol/L
+pH 7.113
+Na 0.092
+N 0.104
+F 0.000
+U(+6) 0.00000198
+
+GAS_PHASE 520
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 520
+Fix_H+ -7.113 NaOH 10.0
+ END
+
+
+SOLUTION 521
+units mol/L
+pH 7.545
+Na 0.098
+N 0.105
+F 0.000
+U(+6) 0.00000211
+
+GAS_PHASE 521
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 521
+Fix_H+ -7.545 NaOH 10.0
+ END
+
+
+SOLUTION 522
+units mol/L
+pH 7.775
+Na 0.104
+N 0.102
+F 0.000
+U(+6) 0.00000208
+
+GAS_PHASE 522
+-fixed_pressure
+-pressure 1.0
+-volume 1.0
+-temperature 25.0
+ N2(g) 0.78973346
+ O2(g) 0.19743337
+ CO2(g) 0.00036120
+ PHASES
+ Fix_H+
+ H+ = H+
+ log_k 0.0
+
+
+EQUILIBRIUM_PHASES 522
+Fix_H+ -7.775 NaOH 10.0
+ END
+
